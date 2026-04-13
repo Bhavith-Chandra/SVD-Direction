@@ -1,0 +1,10 @@
+{
+  "Name Mover L9H9": {
+    "SV0": {
+      "query (u_k)_last": {
+        "effect_size_d": 3.4637802734810945,
+        "p_value": 8.049540084470329e-07,
+        "t_stat": 7.347787560086505,
+        "pos_mean": 6.207826960086822,
+        "neg_mean": -1.493491217494011,
+        "significant_001": 

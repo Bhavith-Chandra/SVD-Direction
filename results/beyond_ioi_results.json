@@ -1,0 +1,5788 @@
+{
+  "greater_than": {
+    "baseline": 0.0,
+    "head_results": {
+      "L0H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.4002632296771265,
+          2.322652472854438,
+          2.316356075006946,
+          2.265692207284034,
+          2.2012249542153204
+        ]
+      },
+      "L0H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.121885481147524,
+          3.032093706717017,
+          2.972598975010215,
+          2.908084043732618,
+          2.814504192118984
+        ]
+      },
+      "L0H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.063479507074903,
+          2.0281412282445825,
+          2.0038487990384244,
+          1.9827934569583285,
+          1.9523005994268943
+        ]
+      },
+      "L0H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.489321726725708,
+          3.3875280809335626,
+          3.3784877028710882,
+          3.290208230004324,
+          3.239842026009397
+        ]
+      },
+      "L0H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.5943823223928555,
+          2.5505532739230583,
+          2.5349167349142205,
+          2.4904446845684016,
+          2.4849925266929396
+        ]
+      },
+      "L0H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.686078073234793,
+          3.5999923792712947,
+          3.4806656546633574,
+          3.4630477746287984,
+          3.4333618216148754
+        ]
+      },
+      "L0H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.5831170056142398,
+          1.4447438136759894,
+          1.4093189313018273,
+          1.3641640119511789,
+          1.3391664556651754
+        ]
+      },
+      "L0H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.477999313033148,
+          2.4691580439302703,
+          2.43116352762947,
+          2.3852841149081203,
+          2.3835890412794756
+        ]
+      },
+      "L0H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.7551253215609786,
+          1.7125167993370352,
+          1.6895084669943266,
+          1.6755943593788654,
+          1.6256374992424114
+        ]
+      },
+      "L0H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          0.7295398335649637,
+          0.7109619209156881,
+          0.7034225942905625,
+          0.6908471534031974,
+          0.6866335394128955
+        ]
+      },
+      "L0H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          0.5332488759442305,
+          0.5198493535783293,
+          0.5157170170735591,
+          0.5051699160746023,
+          0.49432701084748604
+        ]
+      },
+      "L0H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.8165707531784685,
+          1.6530781878992933,
+          1.1244586570711268,
+          1.110203500118705,
+          1.0830542248636714
+        ]
+      },
+      "L1H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.294520092503876,
+          4.1034066871015975,
+          3.446543199191136,
+          3.1742020669803392,
+          2.7365275802583193
+        ]
+      },
+      "L1H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.5582947724531513,
+          3.3841522004074673,
+          2.6146015024322438,
+          2.1875389352470886,
+          2.017653931436607
+        ]
+      },
+      "L1H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.5991572467384154,
+          1.0515173963967646,
+          1.0032236205849816,
+          0.8486991463061233,
+          0.7648379441329707
+        ]
+      },
+      "L1H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.6828302145418421,
+          1.4371299144718037,
+          1.1042268884178827,
+          0.6082264280683726,
+          0.542257854579454
+        ]
+      },
+      "L1H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.8354882385540414,
+          1.3649314102921606,
+          1.2110100451655814,
+          1.091682108385018,
+          0.9638051906847231
+        ]
+      },
+      "L1H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.615260362192699,
+          2.318976071247483,
+          2.2033604880499067,
+          2.1695672966339163,
+          2.069001059337658
+        ]
+      },
+      "L1H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.775826080132362,
+          3.3374672495713282,
+          2.8559996615230507,
+          2.7744941212245746,
+          2.749765390427942
+        ]
+      },
+      "L1H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.038729411616904,
+          2.5466515528376834,
+          2.2318524191007083,
+          2.1075009577962023,
+          1.9849581555643236
+        ]
+      },
+      "L1H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.7506171177149548,
+          3.086857945652178,
+          2.8130518893545666,
+          2.6230806156823694,
+          2.0370068146749856
+        ]
+      },
+      "L1H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          5.608485684300354,
+          3.5280370253089406,
+          2.963176154330378,
+          2.652572488311307,
+          2.5775742048444052
+        ]
+      },
+      "L1H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.419957425699823,
+          1.3594726715150527,
+          0.8986012992906106,
+          0.8362953123565465,
+          0.5752796571324564
+        ]
+      },
+      "L1H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.178486159857319,
+          2.153815615503997,
+          1.9541296338757452,
+          1.72962260363902,
+          1.6027986902049356
+        ]
+      },
+      "L2H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.8899462685128,
+          4.809624503762505,
+          2.6456670986073925,
+          2.3814390016814713,
+          1.9111448071585988
+        ]
+      },
+      "L2H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          6.286036020759908,
+          5.147161882753866,
+          4.555424536701955,
+          4.233074478872325,
+          3.796737655223238
+        ]
+      },
+      "L2H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          22.953161335492794,
+          22.073696673928353,
+          12.239089533216113,
+          4.920387466607759,
+          4.7239850577151685
+        ]
+      },
+      "L2H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          10.654313648217668,
+          10.318706760972871,
+          6.1656899678977375,
+          3.0190507734856853,
+          2.78204513225579
+        ]
+      },
+      "L2H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          9.978578580605197,
+          9.615204256401121,
+          4.918708702917832,
+          3.359432952075968,
+          3.303211493212455
+        ]
+      },
+      "L2H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          12.734291324506428,
+          12.158490309221861,
+          6.9502944154596875,
+          3.0471026629344866,
+          2.4511150842766787
+        ]
+      },
+      "L2H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.357037950814124,
+          2.0578495185233123,
+          1.9827581137838661,
+          1.9579644840304395,
+          1.898468696175363
+        ]
+      },
+      "L2H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.9742576960726215,
+          0.978690591817818,
+          0.9622754774258357,
+          0.7808667019767468,
+          0.7128088746578222
+        ]
+      },
+      "L2H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          10.36417590016595,
+          9.997314870278668,
+          5.601973554920014,
+          3.507057766491212,
+          2.7422121093849516
+        ]
+      },
+      "L2H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          12.830586588901571,
+          12.330003636293593,
+          6.921077486793713,
+          3.2559542685760676,
+          3.075301126932612
+        ]
+      },
+      "L2H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.9980579773971892,
+          1.874827387486426,
+          1.5292016049923287,
+          1.3207679314141556,
+          0.8635027785114333
+        ]
+      },
+      "L2H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.8800083500865612,
+          1.7101765990134874,
+          1.3146570935968993,
+          1.1968272374286955,
+          1.0527786159039232
+        ]
+      },
+      "L3H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          5.819506061556813,
+          3.9152112886715713,
+          3.6413317260008924,
+          3.4247368327114875,
+          3.103852453394319
+        ]
+      },
+      "L3H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.534682595378413,
+          3.2570006013668773,
+          2.9083835098892528,
+          2.834568155119905,
+          2.7449859218747927
+        ]
+      },
+      "L3H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.869506879878904,
+          4.489935906319432,
+          3.8734801082882324,
+          3.509653399900543,
+          3.4589092598910396
+        ]
+      },
+      "L3H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.454590518634825,
+          4.085653633725176,
+          3.9838273294197712,
+          3.6938550619446686,
+          3.6705504968265337
+        ]
+      },
+      "L3H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.3317269603316606,
+          3.0699883134811894,
+          2.6801594063008536,
+          2.5388341954946436,
+          2.476729015625047
+        ]
+      },
+      "L3H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.3652388312377552,
+          2.986593094068313,
+          2.9027151669616975,
+          2.7569300874273406,
+          2.7223139712133757
+        ]
+      },
+      "L3H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.2501608204139165,
+          3.4101428825190405,
+          2.945726067600314,
+          2.7500475058633027,
+          2.61567955837997
+        ]
+      },
+      "L3H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.611814475263882,
+          4.114638880097417,
+          4.026337258809209,
+          3.7431660124817676,
+          3.6350071208428942
+        ]
+      },
+      "L3H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.5367559020632107,
+          3.4496365912907203,
+          3.089735351125281,
+          3.0714836349241548,
+          3.0587521170823457
+        ]
+      },
+      "L3H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.330419971173201,
+          4.0112439689960615,
+          3.692094512398303,
+          3.364341404061063,
+          3.215844323609837
+        ]
+      },
+      "L3H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.1247866786244383,
+          1.8241571028888315,
+          1.7921978270345627,
+          1.728902327940669,
+          1.6961223040623616
+        ]
+      },
+      "L3H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.123533991378688,
+          3.4570249827394766,
+          3.067037882707848,
+          2.865103772850367,
+          2.707345108958749
+        ]
+      },
+      "L4H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.844288496597035,
+          4.487286669516786,
+          3.9657742354374457,
+          3.912237382794713,
+          3.4730957358646695
+        ]
+      },
+      "L4H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.286503017429335,
+          3.5512163161868533,
+          3.400661842457148,
+          3.29378828353732,
+          3.0209203893976104
+        ]
+      },
+      "L4H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.4981136829683086,
+          3.288687524869627,
+          2.9997159479570725,
+          2.8069939467665534,
+          2.7757662197111457
+        ]
+      },
+      "L4H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          5.3915134129105695,
+          4.1898212583967975,
+          4.039787299398649,
+          3.413830383840155,
+          3.2783370456678997
+        ]
+      },
+      "L4H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.3471652364121476,
+          2.2568739815669394,
+          2.178568585650257,
+          2.1536584284075855,
+          2.1206015083685648
+        ]
+      },
+      "L4H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.4752067985360577,
+          3.2483581188857666,
+          3.1401274845469063,
+          3.0683323808313134,
+          2.949317858366559
+        ]
+      },
+      "L4H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.992116188042332,
+          1.6064622845645375,
+          1.547623763976816,
+          1.4731484621773854,
+          1.4331837300503747
+        ]
+      },
+      "L4H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.954844021469646,
+          2.664655339067097,
+          2.3755561365566495,
+          2.293934524263953,
+          2.2364961659443288
+        ]
+      },
+      "L4H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.517491834994764,
+          3.3135975376063436,
+          2.961192652271316,
+          2.8611540829549478,
+          2.7310132130174156
+        ]
+      },
+      "L4H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.371542189679784,
+          3.2220167237321102,
+          2.9145247131092926,
+          2.7084430198756104,
+          2.6332362325059453
+        ]
+      },
+      "L4H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.54250278290541,
+          3.3579344057566463,
+          2.936312889790062,
+          2.884336532620336,
+          2.7603163978164065
+        ]
+      },
+      "L4H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          18.45964147378965,
+          15.954664653276394,
+          15.127006653059986,
+          14.372811424410244,
+          13.047010965639453
+        ]
+      },
+      "L5H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.954147158144541,
+          4.770829960120246,
+          4.718127708628184,
+          4.588739384723908,
+          4.439643970304077
+        ]
+      },
+      "L5H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          5.5237227381090355,
+          5.14251195724391,
+          5.0370810310538445,
+          4.9970808760266205,
+          4.921355414634953
+        ]
+      },
+      "L5H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.7634782406148086,
+          3.2078172597254326,
+          3.1053755338558253,
+          2.9875963994219195,
+          2.8351401687714826
+        ]
+      },
+      "L5H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.4900368063254685,
+          2.7717245921734532,
+          2.5759191399955617,
+          2.4579349401823687,
+          2.2814999281059882
+        ]
+      },
+      "L5H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.950891873304151,
+          2.906268857414093,
+          2.473938730706432,
+          2.4454085224237643,
+          2.3248827927379647
+        ]
+      },
+      "L5H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.761029057007187,
+          3.80414466283377,
+          3.788699962037131,
+          3.7441113886259525,
+          3.7081835406913553
+        ]
+      },
+      "L5H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.7385115180027544,
+          3.3920956796536914,
+          3.336244473327283,
+          3.030966559532775,
+          2.8332434391627013
+        ]
+      },
+      "L5H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.4548026668518044,
+          3.27355112793371,
+          3.09512460552064,
+          2.96983747342269,
+          2.918117378348076
+        ]
+      },
+      "L5H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.6218994993511777,
+          2.512963947227836,
+          2.471206952616553,
+          2.4088063811207223,
+          2.353037827426629
+        ]
+      },
+      "L5H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.607229298749991,
+          2.432977791432365,
+          2.269360802315676,
+          2.2074323946604837,
+          2.0122903140707202
+        ]
+      },
+      "L5H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.177013384092394,
+          3.408394698540764,
+          3.358452848185937,
+          3.040191505480895,
+          2.9354198966438805
+        ]
+      },
+      "L5H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.6131248166022023,
+          2.2155720748326564,
+          2.165419822601096,
+          2.1269457673570984,
+          2.1002838938930464
+        ]
+      },
+      "L6H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.5256093643084228,
+          3.066514391240611,
+          2.7780216999496856,
+          2.6992143285046795,
+          2.4625584840640924
+        ]
+      },
+      "L6H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.8503848148906825,
+          2.7129639757153248,
+          2.6682061858612274,
+          2.601106148434994,
+          2.5014679569741545
+        ]
+      },
+      "L6H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.3260250827447977,
+          2.1841604301121795,
+          2.105847893438942,
+          2.084520375005061,
+          1.9196182690459298
+        ]
+      },
+      "L6H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.4915656487758815,
+          2.3795692156845853,
+          2.199239693310679,
+          2.136867304209176,
+          2.0793164031644693
+        ]
+      },
+      "L6H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.4159630711082207,
+          3.1661433931378666,
+          2.932764160817418,
+          2.634466350872205,
+          2.5116700361130286
+        ]
+      },
+      "L6H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.7106903123642705,
+          1.5693618498309096,
+          1.4959766965443186,
+          1.4552524708525398,
+          1.4079275887681548
+        ]
+      },
+      "L6H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.9940641713247127,
+          1.9560691322753594,
+          1.8464000235126774,
+          1.7921949013789258,
+          1.7591698799728759
+        ]
+      },
+      "L6H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.4774939704052756,
+          2.3908330636484183,
+          2.1948273748314095,
+          2.0838426124897103,
+          1.9653005719910535
+        ]
+      },
+      "L6H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.4189289226551662,
+          2.3633217065716945,
+          2.3516793090156334,
+          2.148586070463563,
+          1.9956697934096161
+        ]
+      },
+      "L6H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.094368158436145,
+          4.04405867105499,
+          3.8622647982509055,
+          3.843397687194098,
+          3.7766520068296425
+        ]
+      },
+      "L6H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.8311692761743075,
+          4.004504211375917,
+          3.705561411082426,
+          3.2442503477167173,
+          3.1606269653762356
+        ]
+      },
+      "L6H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.152145602433011,
+          2.849169074089139,
+          2.357101276685204,
+          2.3399063568519085,
+          2.2088604404314345
+        ]
+      },
+      "L7H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.162963803543636,
+          3.1435207231582334,
+          2.654039975869369,
+          2.5213427584458796,
+          2.4135267275241663
+        ]
+      },
+      "L7H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.6271704549197814,
+          3.187352717659175,
+          3.1071580986650797,
+          2.9840928536515086,
+          2.9318841398755673
+        ]
+      },
+      "L7H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.635503322315519,
+          3.591443504679325,
+          3.4888988359541284,
+          3.47273365680146,
+          3.4182161584405137
+        ]
+      },
+      "L7H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.826317546993717,
+          1.6899009477826874,
+          1.6392151059630982,
+          1.6217749158970647,
+          1.5946995778039676
+        ]
+      },
+      "L7H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.6799927469912794,
+          2.2751814847863163,
+          2.1602634713655857,
+          2.0516326449011935,
+          2.0190774305294124
+        ]
+      },
+      "L7H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.828997623830381,
+          2.656756314746075,
+          2.4803486070467464,
+          2.3622785606400845,
+          2.290971685293479
+        ]
+      },
+      "L7H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.9411636041371714,
+          1.8488374255606113,
+          1.780186167859754,
+          1.692360852019462,
+          1.6540092440969698
+        ]
+      },
+      "L7H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.5331000707212117,
+          3.4294697503752882,
+          3.222995732570819,
+          3.179578306707951,
+          3.1385374326174444
+        ]
+      },
+      "L7H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.3293387445910243,
+          2.9384904793953486,
+          2.7624880784377486,
+          2.670645095354745,
+          2.4216635702005536
+        ]
+      },
+      "L7H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.1723193499630296,
+          2.0850861999929693,
+          2.0630825699247097,
+          2.05955689377411,
+          2.0380160976251447
+        ]
+      },
+      "L7H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.547389710310611,
+          3.305598295529831,
+          3.124242333111463,
+          3.0659024586353216,
+          2.996955504279356
+        ]
+      },
+      "L7H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.9836288878983517,
+          2.833131085104212,
+          2.77063792069971,
+          2.734806534093422,
+          2.681718279959679
+        ]
+      },
+      "L8H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.570628862358407,
+          2.1284203335439167,
+          1.9535736741869585,
+          1.9378066454432183,
+          1.8151969244188848
+        ]
+      },
+      "L8H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.051637123270998,
+          2.943097113260466,
+          2.761152419808245,
+          2.626133406327918,
+          2.542291573218529
+        ]
+      },
+      "L8H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.531228735966372,
+          2.3480853568633306,
+          2.1016017849244477,
+          2.049540519184682,
+          1.9876886460237957
+        ]
+      },
+      "L8H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.6438861991959377,
+          2.489330450124281,
+          2.398264020751706,
+          2.290573266869437,
+          2.2697649713026617
+        ]
+      },
+      "L8H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.843851709962398,
+          2.830771987498726,
+          2.6336448417718166,
+          2.505114100940121,
+          2.3642323972396517
+        ]
+      },
+      "L8H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.593552021714457,
+          2.5684513976405126,
+          2.5524028967269774,
+          2.401110894357418,
+          2.3497818924601583
+        ]
+      },
+      "L8H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.685403796152979,
+          2.633429108700021,
+          2.353445481056039,
+          2.348359493832057,
+          2.2896371371755153
+        ]
+      },
+      "L8H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.816521756732944,
+          3.801532601035033,
+          3.155583626907938,
+          3.0035880203553225,
+          2.5146738686551413
+        ]
+      },
+      "L8H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.4177333561786423,
+          2.356244183529885,
+          2.166392852693063,
+          2.0252876206732644,
+          1.9253737623139207
+        ]
+      },
+      "L8H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.2113331991322545,
+          1.981997257178228,
+          1.8632067653223807,
+          1.6847166260243107,
+          1.661565202216228
+        ]
+      },
+      "L8H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.4498448764364071,
+          1.3602383243312568,
+          1.3127484901566124,
+          1.2849352337458013,
+          1.2718549276327789
+        ]
+      },
+      "L8H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.5735178088100943,
+          2.2150828628488326,
+          2.0825753802628353,
+          2.0592378796100204,
+          1.999154431931172
+        ]
+      },
+      "L9H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.80585902522198,
+          2.5547544908370265,
+          2.299507000497115,
+          2.215501127451563,
+          2.0134116103956776
+        ]
+      },
+      "L9H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.233802006312896,
+          2.0068917982720302,
+          1.9094606556144071,
+          1.8673831226222783,
+          1.844904571771254
+        ]
+      },
+      "L9H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.9491082914182605,
+          2.8625658402123695,
+          2.3972613386026396,
+          2.304101040859782,
+          2.1273248607916337
+        ]
+      },
+      "L9H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.574003183250014,
+          4.546286947186792,
+          3.901761438348335,
+          3.7046743027566893,
+          2.466102985750063
+        ]
+      },
+      "L9H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.614890204509061,
+          2.459385818893385,
+          2.3870436958413714,
+          2.33112300102717,
+          2.24425401259472
+        ]
+      },
+      "L9H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.6877336635739972,
+          1.6119204613478169,
+          1.5580052355086964,
+          1.4976808933273198,
+          1.4901715485438463
+        ]
+      },
+      "L9H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.9678847807706692,
+          1.863593817584278,
+          1.8172284996370647,
+          1.7676114435865333,
+          1.7370755937908982
+        ]
+      },
+      "L9H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.4264306994343663,
+          2.089006205733955,
+          2.0249685298988314,
+          1.8178003846104167,
+          1.8016110525575957
+        ]
+      },
+      "L9H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.9932235548829125,
+          2.3815572864838748,
+          2.32043015283835,
+          2.2651214289008053,
+          2.115695623970164
+        ]
+      },
+      "L9H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.4273984846542156,
+          2.308632075227218,
+          2.2389851146112507,
+          2.1317376627137268,
+          2.0719480135326087
+        ]
+      },
+      "L9H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.03953850279712,
+          4.020937996467817,
+          3.489186608620012,
+          3.329159542523616,
+          2.4744564461727814
+        ]
+      },
+      "L9H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.111187880408901,
+          3.0351177112567,
+          2.640914889397696,
+          2.562295682118732,
+          2.45041898997453
+        ]
+      },
+      "L10H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.9291069792860904,
+          2.32526353997454,
+          2.2727379498625027,
+          2.2403764780417528,
+          2.047175737824
+        ]
+      },
+      "L10H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.276186835070131,
+          2.2535992061016366,
+          2.1616064282536738,
+          2.068823282404197,
+          2.0645677246495797
+        ]
+      },
+      "L10H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.2445483971594213,
+          2.048218738399525,
+          1.987079974632128,
+          1.9195632896967276,
+          1.9068102311749302
+        ]
+      },
+      "L10H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.4393178723675457,
+          2.2480754398205005,
+          2.1119814041499363,
+          2.0302550529747516,
+          1.974944063914391
+        ]
+      },
+      "L10H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.6434245671936947,
+          2.5131168886200532,
+          2.3161122605813005,
+          2.2433977482585097,
+          2.105969340243441
+        ]
+      },
+      "L10H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.932744120800285,
+          4.904870235739561,
+          4.558287649883625,
+          4.3443149727635095,
+          2.6309157375066947
+        ]
+      },
+      "L10H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.341465035710386,
+          2.1748084906658645,
+          2.106413753918316,
+          1.9928488007383445,
+          1.9686328865135085
+        ]
+      },
+      "L10H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.0198389941248815,
+          1.8896264256401945,
+          1.8079750363992957,
+          1.7966069720690638,
+          1.7272868311300411
+        ]
+      },
+      "L10H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.2169630885079856,
+          2.0763903686572394,
+          1.9796164808105747,
+          1.9642863482393365,
+          1.9329977368600382
+        ]
+      },
+      "L10H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          6.1992515709505405,
+          6.169660978877181,
+          5.44926215163998,
+          5.116362554214551,
+          2.689575661586025
+        ]
+      },
+      "L10H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.269291361420592,
+          2.14616637788914,
+          2.1319399354439383,
+          1.9611631303883192,
+          1.8956471250520013
+        ]
+      },
+      "L10H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.8758547399331635,
+          3.2075003016883272,
+          2.578166699572443,
+          2.49500725268897,
+          2.4377601615119895
+        ]
+      },
+      "L11H0": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.309978827240793,
+          2.8757566170794018,
+          2.6311336090498707,
+          2.6138521696798507,
+          2.3994069510119123
+        ]
+      },
+      "L11H1": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.401125303284618,
+          3.170297620910692,
+          3.111509995097372,
+          2.967316427701812,
+          2.6916338420988457
+        ]
+      },
+      "L11H2": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.825752913723901,
+          3.6571590112723973,
+          3.3118010423895994,
+          3.1324584532795092,
+          3.063598448216562
+        ]
+      },
+      "L11H3": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          5.061654023795271,
+          4.733795822858965,
+          4.305591348287492,
+          3.538487741642555,
+          3.385882397802281
+        ]
+      },
+      "L11H4": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.525393514167302,
+          3.006792366771591,
+          2.868496921689676,
+          2.714403411833403,
+          2.6263791160909693
+        ]
+      },
+      "L11H5": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.687506998428714,
+          3.3148724811499757,
+          3.1227025031950038,
+          2.9878784360821395,
+          2.9587013302388305
+        ]
+      },
+      "L11H6": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.600962921402903,
+          3.490092645783164,
+          3.409018829257698,
+          3.0426383261158385,
+          2.9254329107137758
+        ]
+      },
+      "L11H7": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.612319939739344,
+          3.2425740703285837,
+          3.0834473869253647,
+          2.992832410649938,
+          2.7925171130854998
+        ]
+      },
+      "L11H8": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          6.145203426867396,
+          4.241803436167141,
+          3.6884024796250765,
+          3.3712804695694616,
+          3.2354619473945276
+        ]
+      },
+      "L11H9": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.293483667567622,
+          3.8638965480335843,
+          3.3570677202641113,
+          3.250161478289045,
+          3.186947192182675
+        ]
+      },
+      "L11H10": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.7311957170036454,
+          3.663847172016056,
+          3.3863147470003097,
+          3.1690900538441693,
+          2.937070996368368
+        ]
+      },
+      "L11H11": {
+        "individual_effects": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "full_head_effect": 0.0,
+        "max_individual": 0.0,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          5.493842192368798,
+          3.9147309480789936,
+          3.828868996106879,
+          3.5068476852217834,
+          3.2170115031022712
+        ]
+      }
+    },
+    "stats": {
+      "n_opposing": 0,
+      "n_high_ratio_3x": 0,
+      "n_high_ratio_5x": 0,
+      "mean_ratio": 0,
+      "median_ratio": 0
+    }
+  },
+  "factual_recall": {
+    "baseline": 3.0295761065049605,
+    "head_results": {
+      "L0H0": {
+        "individual_effects": [
+          0.0142152526161885,
+          -0.009086240421642078,
+          -0.0004876526919277424,
+          -0.0008578950708564292,
+          0.006395058198408687
+        ],
+        "full_head_effect": -0.02991232005032618,
+        "max_individual": 0.0142152526161885,
+        "opposition_ratio": 0.4752306939840158,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.4002632296771265,
+          2.322652472854438,
+          2.316356075006946,
+          2.265692207284034,
+          2.2012249542153204
+        ]
+      },
+      "L0H1": {
+        "individual_effects": [
+          -0.001238801262595679,
+          -0.007239666852083992,
+          -0.005093141035600102,
+          0.00968324054371239,
+          0.009721430865201164
+        ],
+        "full_head_effect": 0.10116347399624903,
+        "max_individual": 0.009721430865201164,
+        "opposition_ratio": 0.09609625372851092,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.121885481147524,
+          3.032093706717017,
+          2.972598975010215,
+          2.908084043732618,
+          2.814504192118984
+        ]
+      },
+      "L0H2": {
+        "individual_effects": [
+          -0.00324602560563525,
+          -0.005351846868341781,
+          -0.00568036599592725,
+          0.006849440661343742,
+          0.0036663792350073443
+        ],
+        "full_head_effect": -0.021185224706476546,
+        "max_individual": 0.006849440661343742,
+        "opposition_ratio": 0.32331215534616425,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.063479507074903,
+          2.0281412282445825,
+          2.0038487990384244,
+          1.9827934569583285,
+          1.9523005994268943
+        ]
+      },
+      "L0H3": {
+        "individual_effects": [
+          0.007648901505903805,
+          0.008901379325172876,
+          -0.008203246376731421,
+          -0.005543231964111328,
+          -0.007685921408913554
+        ],
+        "full_head_effect": 0.002215558832341813,
+        "max_individual": 0.008901379325172876,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.489321726725708,
+          3.3875280809335626,
+          3.3784877028710882,
+          3.290208230004324,
+          3.239842026009397
+        ]
+      },
+      "L0H4": {
+        "individual_effects": [
+          0.0055659250779585,
+          -0.006074601953679704,
+          -0.0018043301322245853,
+          -0.0015429583462802654,
+          -0.009679750962690914
+        ],
+        "full_head_effect": 0.08016438917680224,
+        "max_individual": 0.009679750962690914,
+        "opposition_ratio": 0.12074876465836049,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.5943823223928555,
+          2.5505532739230583,
+          2.5349167349142205,
+          2.4904446845684016,
+          2.4849925266929396
+        ]
+      },
+      "L0H5": {
+        "individual_effects": [
+          0.0018841786818071249,
+          0.012794906442815446,
+          0.011521317742087422,
+          -0.004096356305208992,
+          -0.0007190704345703125
+        ],
+        "full_head_effect": -0.0057460611516777504,
+        "max_individual": 0.012794906442815446,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.686078073234793,
+          3.5999923792712947,
+          3.4806656546633574,
+          3.4630477746287984,
+          3.4333618216148754
+        ]
+      },
+      "L0H6": {
+        "individual_effects": [
+          0.03870441696860549,
+          -0.0025733167474921714,
+          0.010943456129594242,
+          0.014996680346402336,
+          0.013957088643854476
+        ],
+        "full_head_effect": -0.008587208661166024,
+        "max_individual": 0.03870441696860549,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.5831170056142398,
+          1.4447438136759894,
+          1.4093189313018273,
+          1.3641640119511789,
+          1.3391664556651754
+        ]
+      },
+      "L0H7": {
+        "individual_effects": [
+          0.012543309818614734,
+          -0.001734126697887195,
+          0.006357539783824695,
+          0.005434339696710921,
+          -0.0008402954448354372
+        ],
+        "full_head_effect": 0.04555847428061721,
+        "max_individual": 0.012543309818614734,
+        "opposition_ratio": 0.2753233073907233,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.477999313033148,
+          2.4691580439302703,
+          2.43116352762947,
+          2.3852841149081203,
+          2.3835890412794756
+        ]
+      },
+      "L0H8": {
+        "individual_effects": [
+          -0.00748950784856639,
+          -0.006704763932661617,
+          0.0013496442274614218,
+          -0.0053217844529585,
+          -0.0018841786818071249
+        ],
+        "full_head_effect": -0.014560742811723149,
+        "max_individual": 0.00748950784856639,
+        "opposition_ratio": 0.5143630339062397,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.7551253215609786,
+          1.7125167993370352,
+          1.6895084669943266,
+          1.6755943593788654,
+          1.6256374992424114
+        ]
+      },
+      "L0H9": {
+        "individual_effects": [
+          -0.01344143260609032,
+          0.00043127753517824274,
+          0.0016290274533359295,
+          0.01001431725241897,
+          -0.0013418847864326011
+        ],
+        "full_head_effect": 0.10202784971757373,
+        "max_individual": 0.01344143260609032,
+        "opposition_ratio": 0.13174278045943283,
+        "has_opposing_directions": true,
+        "singular_values": [
+          0.7295398335649637,
+          0.7109619209156881,
+          0.7034225942905625,
+          0.6908471534031974,
+          0.6866335394128955
+        ]
+      },
+      "L0H10": {
+        "individual_effects": [
+          0.026688250628384758,
+          -0.022036964243108415,
+          0.0017606128345835081,
+          -0.006298455325040031,
+          -0.0014377290552314292
+        ],
+        "full_head_effect": -0.015196431766856922,
+        "max_individual": 0.026688250628384758,
+        "opposition_ratio": 1.7562182384545848,
+        "has_opposing_directions": true,
+        "singular_values": [
+          0.5332488759442305,
+          0.5198493535783293,
+          0.5157170170735591,
+          0.5051699160746023,
+          0.49432701084748604
+        ]
+      },
+      "L0H11": {
+        "individual_effects": [
+          0.03352076357061229,
+          0.001164934851906274,
+          0.006900765679099141,
+          0.017279559915715836,
+          0.015038186853582047
+        ],
+        "full_head_effect": -0.021106719970703125,
+        "max_individual": 0.03352076357061229,
+        "opposition_ratio": 1.5881559814665802,
+        "has_opposing_directions": false,
+        "singular_values": [
+          1.8165707531784685,
+          1.6530781878992933,
+          1.1244586570711268,
+          1.110203500118705,
+          1.0830542248636714
+        ]
+      },
+      "L1H0": {
+        "individual_effects": [
+          -0.0003670345653188356,
+          -0.013675668022849585,
+          -0.0027078065005214924,
+          0.030546318400989758,
+          -0.15662492405284523
+        ],
+        "full_head_effect": -0.003962018273093726,
+        "max_individual": 0.15662492405284523,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.294520092503876,
+          4.1034066871015975,
+          3.446543199191136,
+          3.1742020669803392,
+          2.7365275802583193
+        ]
+      },
+      "L1H1": {
+        "individual_effects": [
+          0.0018818811936811564,
+          0.004200176759199703,
+          -0.0907026637684214,
+          -0.05208878083662549,
+          0.05195418271151464
+        ],
+        "full_head_effect": 0.012952457774769055,
+        "max_individual": 0.0907026637684214,
+        "opposition_ratio": 7.0027376537839086,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.5582947724531513,
+          3.3841522004074673,
+          2.6146015024322438,
+          2.1875389352470886,
+          2.017653931436607
+        ]
+      },
+      "L1H2": {
+        "individual_effects": [
+          -0.08012635057622752,
+          0.014924461191350602,
+          -0.01529294794256053,
+          -0.022260167381980445,
+          -0.225311279296875
+        ],
+        "full_head_effect": -0.00463245131752732,
+        "max_individual": 0.225311279296875,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.5991572467384154,
+          1.0515173963967646,
+          1.0032236205849816,
+          0.8486991463061233,
+          0.7648379441329707
+        ]
+      },
+      "L1H3": {
+        "individual_effects": [
+          -0.06018140099265379,
+          -0.006304762580178203,
+          0.03272754495794139,
+          -0.015483466061678719,
+          -0.04576843435114064
+        ],
+        "full_head_effect": -0.06156611442565918,
+        "max_individual": 0.06018140099265379,
+        "opposition_ratio": 0.977508513474934,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.6828302145418421,
+          1.4371299144718037,
+          1.1042268884178827,
+          0.6082264280683726,
+          0.542257854579454
+        ]
+      },
+      "L1H4": {
+        "individual_effects": [
+          0.010060223666104484,
+          -0.06241917610168457,
+          -0.2518493045460093,
+          0.0032590519298207887,
+          0.3393996845592153
+        ],
+        "full_head_effect": -0.029998800971291484,
+        "max_individual": 0.3393996845592153,
+        "opposition_ratio": 11.313775003341535,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.8354882385540414,
+          1.3649314102921606,
+          1.2110100451655814,
+          1.091682108385018,
+          0.9638051906847231
+        ]
+      },
+      "L1H5": {
+        "individual_effects": [
+          -0.002239899201826656,
+          -0.09363319657065672,
+          -0.023823434656316422,
+          0.004055500030517578,
+          -0.0009088299491191165
+        ],
+        "full_head_effect": -0.028008330952037586,
+        "max_individual": 0.09363319657065672,
+        "opposition_ratio": 3.3430480641990905,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.615260362192699,
+          2.318976071247483,
+          2.2033604880499067,
+          2.1695672966339163,
+          2.069001059337658
+        ]
+      },
+      "L1H6": {
+        "individual_effects": [
+          0.010244239460338367,
+          0.02478766441345215,
+          0.005864251743663562,
+          -0.007747628472068335,
+          0.011962001973932601
+        ],
+        "full_head_effect": -0.06243296103043994,
+        "max_individual": 0.02478766441345215,
+        "opposition_ratio": 0.39702849271183255,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.775826080132362,
+          3.3374672495713282,
+          2.8559996615230507,
+          2.7744941212245746,
+          2.749765390427942
+        ]
+      },
+      "L1H7": {
+        "individual_effects": [
+          0.06321029229597608,
+          -0.01091200655156932,
+          -0.010069001804698718,
+          0.010320641777731954,
+          -0.09951314059170802
+        ],
+        "full_head_effect": -0.013808944008567359,
+        "max_individual": 0.09951314059170802,
+        "opposition_ratio": 7.206426539927164,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.038729411616904,
+          2.5466515528376834,
+          2.2318524191007083,
+          2.1075009577962023,
+          1.9849581555643236
+        ]
+      },
+      "L1H8": {
+        "individual_effects": [
+          -0.033108039335771,
+          0.01586261662569921,
+          -0.023692434484308578,
+          0.004051620310002946,
+          -0.03905003721063771
+        ],
+        "full_head_effect": 0.03724282438104787,
+        "max_individual": 0.03905003721063771,
+        "opposition_ratio": 1.0485251282528802,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.7506171177149548,
+          3.086857945652178,
+          2.8130518893545666,
+          2.6230806156823694,
+          2.0370068146749856
+        ]
+      },
+      "L1H9": {
+        "individual_effects": [
+          0.45409137552434764,
+          -0.07047638026150782,
+          0.06360868974165479,
+          0.06620914285833202,
+          0.11067418618635694
+        ],
+        "full_head_effect": 0.08531676639210106,
+        "max_individual": 0.45409137552434764,
+        "opposition_ratio": 5.322416621340551,
+        "has_opposing_directions": true,
+        "singular_values": [
+          5.608485684300354,
+          3.5280370253089406,
+          2.963176154330378,
+          2.652572488311307,
+          2.5775742048444052
+        ]
+      },
+      "L1H10": {
+        "individual_effects": [
+          -0.006581328131936015,
+          0.0160405202345415,
+          -0.12527051838961523,
+          0.32136986472389895,
+          -0.02224532040682714
+        ],
+        "full_head_effect": 0.3786537863991475,
+        "max_individual": 0.32136986472389895,
+        "opposition_ratio": 0.8487168919661502,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.419957425699823,
+          1.3594726715150527,
+          0.8986012992906106,
+          0.8362953123565465,
+          0.5752796571324564
+        ]
+      },
+      "L1H11": {
+        "individual_effects": [
+          -0.0038754073056308513,
+          -0.008260770277543461,
+          -0.07523915984413865,
+          -0.002563866701993156,
+          0.035002144900235344
+        ],
+        "full_head_effect": -0.022789153185757804,
+        "max_individual": 0.07523915984413865,
+        "opposition_ratio": 3.3015338143920037,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.178486159857319,
+          2.153815615503997,
+          1.9541296338757452,
+          1.72962260363902,
+          1.6027986902049356
+        ]
+      },
+      "L2H0": {
+        "individual_effects": [
+          -0.03125374967401662,
+          -0.03195480866865674,
+          0.020339705727316915,
+          0.0022600347345527183,
+          -0.017438346689397477
+        ],
+        "full_head_effect": 0.0029395927082407347,
+        "max_individual": 0.03195480866865674,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.8899462685128,
+          4.809624503762505,
+          2.6456670986073925,
+          2.3814390016814713,
+          1.9111448071585988
+        ]
+      },
+      "L2H1": {
+        "individual_effects": [
+          0.040435617620294906,
+          0.022723956541581547,
+          -0.008779287338256836,
+          0.04643589800054393,
+          -0.16786046461625537
+        ],
+        "full_head_effect": 0.17784549973227737,
+        "max_individual": 0.16786046461625537,
+        "opposition_ratio": 0.9438555649085687,
+        "has_opposing_directions": true,
+        "singular_values": [
+          6.286036020759908,
+          5.147161882753866,
+          4.555424536701955,
+          4.233074478872325,
+          3.796737655223238
+        ]
+      },
+      "L2H2": {
+        "individual_effects": [
+          -0.0037818605249579917,
+          -0.0732624314048076,
+          0.23216082833029983,
+          0.11456864530389943,
+          0.038305065848610376
+        ],
+        "full_head_effect": 0.0006232911890204917,
+        "max_individual": 0.23216082833029983,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          22.953161335492794,
+          22.073696673928353,
+          12.239089533216113,
+          4.920387466607759,
+          4.7239850577151685
+        ]
+      },
+      "L2H3": {
+        "individual_effects": [
+          0.0004275278611616251,
+          -0.07360991564663966,
+          0.22282910346984863,
+          0.02763821861960647,
+          0.0792583335529673
+        ],
+        "full_head_effect": 0.01968086849559425,
+        "max_individual": 0.22282910346984863,
+        "opposition_ratio": 11.32211739129963,
+        "has_opposing_directions": true,
+        "singular_values": [
+          10.654313648217668,
+          10.318706760972871,
+          6.1656899678977375,
+          3.0190507734856853,
+          2.78204513225579
+        ]
+      },
+      "L2H4": {
+        "individual_effects": [
+          -0.0022345672954213747,
+          -0.08527660369873047,
+          0.1883329478177158,
+          -0.017887657338922835,
+          -0.049119559201327156
+        ],
+        "full_head_effect": 0.001059402119029773,
+        "max_individual": 0.1883329478177158,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          9.978578580605197,
+          9.615204256401121,
+          4.918708702917832,
+          3.359432952075968,
+          3.303211493212455
+        ]
+      },
+      "L2H5": {
+        "individual_effects": [
+          0.0016693418676201333,
+          -0.07449145750565966,
+          0.23048468069596728,
+          0.11065836386247119,
+          -0.009377327832308602
+        ],
+        "full_head_effect": 0.03445712002840917,
+        "max_individual": 0.23048468069596728,
+        "opposition_ratio": 6.689029161634446,
+        "has_opposing_directions": true,
+        "singular_values": [
+          12.734291324506428,
+          12.158490309221861,
+          6.9502944154596875,
+          3.0471026629344866,
+          2.4511150842766787
+        ]
+      },
+      "L2H6": {
+        "individual_effects": [
+          -0.014973445372147953,
+          0.08067792112177052,
+          0.025673822923140133,
+          0.009884335777976094,
+          -0.04923918030478758
+        ],
+        "full_head_effect": -0.08702893690629443,
+        "max_individual": 0.08067792112177052,
+        "opposition_ratio": 0.9270240909484836,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.357037950814124,
+          2.0578495185233123,
+          1.9827581137838661,
+          1.9579644840304395,
+          1.898468696175363
+        ]
+      },
+      "L2H7": {
+        "individual_effects": [
+          -0.02572842077775439,
+          0.1233635382218794,
+          -0.1810753345489502,
+          0.011754751205444336,
+          0.0009678060358222496
+        ],
+        "full_head_effect": 0.01568393273787061,
+        "max_individual": 0.1810753345489502,
+        "opposition_ratio": 11.545276148228023,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.9742576960726215,
+          0.978690591817818,
+          0.9622754774258357,
+          0.7808667019767468,
+          0.7128088746578222
+        ]
+      },
+      "L2H8": {
+        "individual_effects": [
+          0.0034751458601518515,
+          -0.08093916286121727,
+          0.19093658707358596,
+          -0.02171137116172117,
+          0.01221921227195022
+        ],
+        "full_head_effect": 0.003712892532348633,
+        "max_individual": 0.19093658707358596,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          10.36417590016595,
+          9.997314870278668,
+          5.601973554920014,
+          3.507057766491212,
+          2.7422121093849516
+        ]
+      },
+      "L2H9": {
+        "individual_effects": [
+          0.0025488680059257973,
+          -0.07369548624212108,
+          0.29217544468966405,
+          0.06284421140497365,
+          0.017578601837158203
+        ],
+        "full_head_effect": -0.005431955510919906,
+        "max_individual": 0.29217544468966405,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          12.830586588901571,
+          12.330003636293593,
+          6.921077486793713,
+          3.2559542685760676,
+          3.075301126932612
+        ]
+      },
+      "L2H10": {
+        "individual_effects": [
+          0.034813664176247094,
+          0.019814382899891125,
+          0.06307248635725538,
+          0.059532013806429696,
+          -0.01601895419034083
+        ],
+        "full_head_effect": 0.030145103281194352,
+        "max_individual": 0.06307248635725538,
+        "opposition_ratio": 2.092296243569428,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.9980579773971892,
+          1.874827387486426,
+          1.5292016049923287,
+          1.3207679314141556,
+          0.8635027785114333
+        ]
+      },
+      "L2H11": {
+        "individual_effects": [
+          -0.06927821852944138,
+          0.05143293467434962,
+          0.04292995279485545,
+          -0.01967607844959618,
+          -0.058682051571932625
+        ],
+        "full_head_effect": -0.06915885751897655,
+        "max_individual": 0.06927821852944138,
+        "opposition_ratio": 1.0017258962155655,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.8800083500865612,
+          1.7101765990134874,
+          1.3146570935968993,
+          1.1968272374286955,
+          1.0527786159039232
+        ]
+      },
+      "L3H0": {
+        "individual_effects": [
+          0.014116764068603516,
+          -0.009891423312100578,
+          -0.04040104692632518,
+          0.05627296187660891,
+          -0.016176137057217765
+        ],
+        "full_head_effect": 0.09411835670471191,
+        "max_individual": 0.05627296187660891,
+        "opposition_ratio": 0.5978957118127379,
+        "has_opposing_directions": true,
+        "singular_values": [
+          5.819506061556813,
+          3.9152112886715713,
+          3.6413317260008924,
+          3.4247368327114875,
+          3.103852453394319
+        ]
+      },
+      "L3H1": {
+        "individual_effects": [
+          -0.015111034566706039,
+          -0.04455102573741554,
+          -0.00793977217240771,
+          0.022323825142600118,
+          0.006813959641890133
+        ],
+        "full_head_effect": 0.01460818810896436,
+        "max_individual": 0.04455102573741554,
+        "opposition_ratio": 3.0497297409578583,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.534682595378413,
+          3.2570006013668773,
+          2.9083835098892528,
+          2.834568155119905,
+          2.7449859218747927
+        ]
+      },
+      "L3H2": {
+        "individual_effects": [
+          -0.03974485397338867,
+          0.03555430065501808,
+          -0.007271723313765133,
+          0.0031506798484106646,
+          0.03106346997347753
+        ],
+        "full_head_effect": -0.04011156342246336,
+        "max_individual": 0.03974485397338867,
+        "opposition_ratio": 0.990857762256424,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.869506879878904,
+          4.489935906319432,
+          3.8734801082882324,
+          3.509653399900543,
+          3.4589092598910396
+        ]
+      },
+      "L3H3": {
+        "individual_effects": [
+          0.050767139955000484,
+          0.033650008114901375,
+          -0.005566792054609859,
+          0.020433100787076164,
+          0.012492700056596195
+        ],
+        "full_head_effect": -0.027479301799427258,
+        "max_individual": 0.050767139955000484,
+        "opposition_ratio": 1.8474683354603503,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.454590518634825,
+          4.085653633725176,
+          3.9838273294197712,
+          3.6938550619446686,
+          3.6705504968265337
+        ]
+      },
+      "L3H4": {
+        "individual_effects": [
+          -0.005088741129094743,
+          0.019289797002619125,
+          -0.01085155660455861,
+          0.01891047304326854,
+          -0.028179277073253406
+        ],
+        "full_head_effect": -0.013379638845270492,
+        "max_individual": 0.028179277073253406,
+        "opposition_ratio": 2.1061313686515817,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.3317269603316606,
+          3.0699883134811894,
+          2.6801594063008536,
+          2.5388341954946436,
+          2.476729015625047
+        ]
+      },
+      "L3H5": {
+        "individual_effects": [
+          -0.05106303908608201,
+          -0.005165902051058602,
+          0.007773551073941398,
+          0.005502549084750008,
+          0.00863846865567286
+        ],
+        "full_head_effect": 0.04209956255826075,
+        "max_individual": 0.05106303908608201,
+        "opposition_ratio": 1.2129113934477793,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.3652388312377552,
+          2.986593094068313,
+          2.9027151669616975,
+          2.7569300874273406,
+          2.7223139712133757
+        ]
+      },
+      "L3H6": {
+        "individual_effects": [
+          -0.056679162112149406,
+          0.021613619544289087,
+          0.0020481456409799925,
+          0.014740141955289054,
+          0.00319220803000686
+        ],
+        "full_head_effect": -0.04732407223094581,
+        "max_individual": 0.056679162112149406,
+        "opposition_ratio": 1.1976814217413476,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.2501608204139165,
+          3.4101428825190405,
+          2.945726067600314,
+          2.7500475058633027,
+          2.61567955837997
+        ]
+      },
+      "L3H7": {
+        "individual_effects": [
+          0.02680152112787404,
+          0.022304404865611804,
+          0.01995717395435692,
+          -0.035872567783702625,
+          0.02007571133700292
+        ],
+        "full_head_effect": 0.07306083765896876,
+        "max_individual": 0.035872567783702625,
+        "opposition_ratio": 0.49099584583395484,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.611814475263882,
+          4.114638880097417,
+          4.026337258809209,
+          3.7431660124817676,
+          3.6350071208428942
+        ]
+      },
+      "L3H8": {
+        "individual_effects": [
+          -0.00896211103959521,
+          -0.0027568990534003746,
+          0.01811760122125783,
+          0.018453359603881836,
+          0.004639928991144515
+        ],
+        "full_head_effect": 0.042497981678355945,
+        "max_individual": 0.018453359603881836,
+        "opposition_ratio": 0.4342173175080467,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.5367559020632107,
+          3.4496365912907203,
+          3.089735351125281,
+          3.0714836349241548,
+          3.0587521170823457
+        ]
+      },
+      "L3H9": {
+        "individual_effects": [
+          -0.013895403255115735,
+          -0.015550288287076164,
+          0.0040996724909003746,
+          -0.004169832576404797,
+          -0.003136938268488265
+        ],
+        "full_head_effect": 0.01820770176974218,
+        "max_individual": 0.015550288287076164,
+        "opposition_ratio": 0.8540500324383529,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.330419971173201,
+          4.0112439689960615,
+          3.692094512398303,
+          3.364341404061063,
+          3.215844323609837
+        ]
+      },
+      "L3H10": {
+        "individual_effects": [
+          -0.03417119112881739,
+          -0.0010952516035600546,
+          -0.023047252134843266,
+          0.031561981547962414,
+          0.010849931023337422
+        ],
+        "full_head_effect": 0.04286904768510302,
+        "max_individual": 0.03417119112881739,
+        "opposition_ratio": 0.7971063733401259,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.1247866786244383,
+          1.8241571028888315,
+          1.7921978270345627,
+          1.728902327940669,
+          1.6961223040623616
+        ]
+      },
+      "L3H11": {
+        "individual_effects": [
+          -0.05365163629705272,
+          -0.010300961407748055,
+          -0.04491444067521533,
+          0.007997642863880383,
+          0.0057317777113481405
+        ],
+        "full_head_effect": 0.19357872009277344,
+        "max_individual": 0.05365163629705272,
+        "opposition_ratio": 0.27715668473962396,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.123533991378688,
+          3.4570249827394766,
+          3.067037882707848,
+          2.865103772850367,
+          2.707345108958749
+        ]
+      },
+      "L4H0": {
+        "individual_effects": [
+          0.0039689974351362345,
+          0.02995178916237551,
+          0.0528301108967173,
+          -0.0007349361072885863,
+          -0.024623372338035132
+        ],
+        "full_head_effect": 0.042063669724897945,
+        "max_individual": 0.0528301108967173,
+        "opposition_ratio": 1.2559558222626157,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.844288496597035,
+          4.487286669516786,
+          3.9657742354374457,
+          3.912237382794713,
+          3.4730957358646695
+        ]
+      },
+      "L4H1": {
+        "individual_effects": [
+          0.07061312415383059,
+          -0.019221370870416976,
+          -0.014126452532681633,
+          0.013678420673717273,
+          -0.014618613503196265
+        ],
+        "full_head_effect": 0.013392491774125492,
+        "max_individual": 0.07061312415383059,
+        "opposition_ratio": 5.272590444315693,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.286503017429335,
+          3.5512163161868533,
+          3.400661842457148,
+          3.29378828353732,
+          3.0209203893976104
+        ]
+      },
+      "L4H2": {
+        "individual_effects": [
+          -0.05274408513849416,
+          -0.030634468252008773,
+          -0.00852912122553029,
+          0.028411930257624007,
+          0.004925966262817383
+        ],
+        "full_head_effect": -0.20028833909468213,
+        "max_individual": 0.05274408513849416,
+        "opposition_ratio": 0.2633407684985619,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.4981136829683086,
+          3.288687524869627,
+          2.9997159479570725,
+          2.8069939467665534,
+          2.7757662197111457
+        ]
+      },
+      "L4H3": {
+        "individual_effects": [
+          0.03729646856134572,
+          -0.018292253667658187,
+          0.04152991554953811,
+          0.0031185150146484375,
+          0.013638518073341821
+        ],
+        "full_head_effect": 0.12103759158741356,
+        "max_individual": 0.04152991554953811,
+        "opposition_ratio": 0.3431158452912964,
+        "has_opposing_directions": true,
+        "singular_values": [
+          5.3915134129105695,
+          4.1898212583967975,
+          4.039787299398649,
+          3.413830383840155,
+          3.2783370456678997
+        ]
+      },
+      "L4H4": {
+        "individual_effects": [
+          0.11751807819713234,
+          -0.00888770276849904,
+          -0.024169726805253422,
+          0.012787883931940414,
+          -0.02144057100469432
+        ],
+        "full_head_effect": -0.05975686420093895,
+        "max_individual": 0.11751807819713234,
+        "opposition_ratio": 1.9666038331925353,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.3471652364121476,
+          2.2568739815669394,
+          2.178568585650257,
+          2.1536584284075855,
+          2.1206015083685648
+        ]
+      },
+      "L4H5": {
+        "individual_effects": [
+          -0.01050480929287989,
+          -0.022308392958207524,
+          0.02699349143288332,
+          -0.020162148909135258,
+          0.009519035165959977
+        ],
+        "full_head_effect": -0.025240984829989266,
+        "max_individual": 0.02699349143288332,
+        "opposition_ratio": 1.0694309914885678,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.4752067985360577,
+          3.2483581188857666,
+          3.1401274845469063,
+          3.0683323808313134,
+          2.949317858366559
+        ]
+      },
+      "L4H6": {
+        "individual_effects": [
+          -0.037787675857543945,
+          0.03229941021312355,
+          0.0038037733598188517,
+          0.18102132190357567,
+          -0.008946418762207031
+        ],
+        "full_head_effect": -0.021217281168157243,
+        "max_individual": 0.18102132190357567,
+        "opposition_ratio": 8.531786917885185,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.992116188042332,
+          1.6064622845645375,
+          1.547623763976816,
+          1.4731484621773854,
+          1.4331837300503747
+        ]
+      },
+      "L4H7": {
+        "individual_effects": [
+          0.06382480534640234,
+          -0.06541685624556104,
+          -0.023051088506525375,
+          0.04819635911421338,
+          0.03055362267927686
+        ],
+        "full_head_effect": -0.025685852224176742,
+        "max_individual": 0.06541685624556104,
+        "opposition_ratio": 2.546804975541656,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.954844021469646,
+          2.664655339067097,
+          2.3755561365566495,
+          2.293934524263953,
+          2.2364961659443288
+        ]
+      },
+      "L4H8": {
+        "individual_effects": [
+          -0.02849524671381154,
+          -0.025618726556951188,
+          0.02048746022311132,
+          -0.014602401039817359,
+          0.008683898232199727
+        ],
+        "full_head_effect": 0.0325045152143999,
+        "max_individual": 0.02849524671381154,
+        "opposition_ratio": 0.8766550285662404,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.517491834994764,
+          3.3135975376063436,
+          2.961192652271316,
+          2.8611540829549478,
+          2.7310132130174156
+        ]
+      },
+      "L4H9": {
+        "individual_effects": [
+          -0.017184886065396476,
+          0.02663954821499903,
+          -0.01980126987804054,
+          0.04318428039550781,
+          0.009463895450938953
+        ],
+        "full_head_effect": 0.05107290094549022,
+        "max_individual": 0.04318428039550781,
+        "opposition_ratio": 0.8455419527000849,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.371542189679784,
+          3.2220167237321102,
+          2.9145247131092926,
+          2.7084430198756104,
+          2.6332362325059453
+        ]
+      },
+      "L4H10": {
+        "individual_effects": [
+          -0.07514517957513966,
+          -0.0002327832308681721,
+          0.0008081522854892498,
+          0.03123751553622167,
+          -0.03791193528608838
+        ],
+        "full_head_effect": 0.17321185632185498,
+        "max_individual": 0.07514517957513966,
+        "opposition_ratio": 0.4338339255224426,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.54250278290541,
+          3.3579344057566463,
+          2.936312889790062,
+          2.884336532620336,
+          2.7603163978164065
+        ]
+      },
+      "L4H11": {
+        "individual_effects": [
+          0.02981667085127393,
+          -0.019702282818880867,
+          -0.010947487571022929,
+          -0.006084810603748547,
+          0.018253759904341305
+        ],
+        "full_head_effect": 0.01525681669061818,
+        "max_individual": 0.02981667085127393,
+        "opposition_ratio": 1.9543179587134312,
+        "has_opposing_directions": true,
+        "singular_values": [
+          18.45964147378965,
+          15.954664653276394,
+          15.127006653059986,
+          14.372811424410244,
+          13.047010965639453
+        ]
+      },
+      "L5H0": {
+        "individual_effects": [
+          -0.012165546417236328,
+          0.021973436528986312,
+          -0.005369923331520976,
+          -0.02103510769930761,
+          0.01822155172174611
+        ],
+        "full_head_effect": 0.07221876491199852,
+        "max_individual": 0.021973436528986312,
+        "opposition_ratio": 0.30426214787475014,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.954147158144541,
+          4.770829960120246,
+          4.718127708628184,
+          4.588739384723908,
+          4.439643970304077
+        ]
+      },
+      "L5H1": {
+        "individual_effects": [
+          -0.0034773999994452964,
+          -0.032470291311090804,
+          0.017591259696266626,
+          -0.0469404567371714,
+          0.02200371568853221
+        ],
+        "full_head_effect": 0.07427824627269386,
+        "max_individual": 0.0469404567371714,
+        "opposition_ratio": 0.6319542947317488,
+        "has_opposing_directions": true,
+        "singular_values": [
+          5.5237227381090355,
+          5.14251195724391,
+          5.0370810310538445,
+          4.9970808760266205,
+          4.921355414634953
+        ]
+      },
+      "L5H2": {
+        "individual_effects": [
+          -0.010574015704068351,
+          -0.022421771829778336,
+          0.020920580083673812,
+          0.10019902749495069,
+          0.03316066481850344
+        ],
+        "full_head_effect": 0.04051618142561475,
+        "max_individual": 0.10019902749495069,
+        "opposition_ratio": 2.4730619710277986,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.7634782406148086,
+          3.2078172597254326,
+          3.1053755338558253,
+          2.9875963994219195,
+          2.8351401687714826
+        ]
+      },
+      "L5H3": {
+        "individual_effects": [
+          0.019521236419677734,
+          -0.027478174729780758,
+          0.015232086181640625,
+          -0.010167750445279289,
+          -0.029491424560546875
+        ],
+        "full_head_effect": 0.024227792566472672,
+        "max_individual": 0.029491424560546875,
+        "opposition_ratio": 1.217255946022842,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.4900368063254685,
+          2.7717245921734532,
+          2.5759191399955617,
+          2.4579349401823687,
+          2.2814999281059882
+        ]
+      },
+      "L5H4": {
+        "individual_effects": [
+          -0.01846443523060204,
+          0.019632881337946273,
+          0.01685818758877833,
+          0.010496312921697282,
+          0.0487626682628286
+        ],
+        "full_head_effect": 0.1055401455272329,
+        "max_individual": 0.0487626682628286,
+        "opposition_ratio": 0.4620295719627011,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.950891873304151,
+          2.906268857414093,
+          2.473938730706432,
+          2.4454085224237643,
+          2.3248827927379647
+        ]
+      },
+      "L5H5": {
+        "individual_effects": [
+          0.0615382194519043,
+          0.050816579298539555,
+          0.03960706970908401,
+          0.0025425824252041096,
+          0.055343909697099125
+        ],
+        "full_head_effect": 0.11866441639986913,
+        "max_individual": 0.0615382194519043,
+        "opposition_ratio": 0.5185903349874997,
+        "has_opposing_directions": false,
+        "singular_values": [
+          4.761029057007187,
+          3.80414466283377,
+          3.788699962037131,
+          3.7441113886259525,
+          3.7081835406913553
+        ]
+      },
+      "L5H6": {
+        "individual_effects": [
+          0.02786850929260254,
+          0.008377725427800797,
+          0.009073560888117171,
+          0.021342559294267094,
+          0.04775092818520266
+        ],
+        "full_head_effect": 0.08495098894292674,
+        "max_individual": 0.04775092818520266,
+        "opposition_ratio": 0.5620997327916161,
+        "has_opposing_directions": false,
+        "singular_values": [
+          3.7385115180027544,
+          3.3920956796536914,
+          3.336244473327283,
+          3.030966559532775,
+          2.8332434391627013
+        ]
+      },
+      "L5H7": {
+        "individual_effects": [
+          0.11401588266546092,
+          0.029736800627274906,
+          0.07170625166459521,
+          0.09757406061345897,
+          -0.004850279201160657
+        ],
+        "full_head_effect": 0.08980345726013184,
+        "max_individual": 0.11401588266546092,
+        "opposition_ratio": 1.2696157380132198,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.4548026668518044,
+          3.27355112793371,
+          3.09512460552064,
+          2.96983747342269,
+          2.918117378348076
+        ]
+      },
+      "L5H8": {
+        "individual_effects": [
+          0.002359541979703117,
+          0.039240663701837875,
+          -0.0025044354525478596,
+          0.006726069883866703,
+          0.0015719153664326413
+        ],
+        "full_head_effect": 0.05809200893748878,
+        "max_individual": 0.039240663701837875,
+        "opposition_ratio": 0.6754915937588538,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.6218994993511777,
+          2.512963947227836,
+          2.471206952616553,
+          2.4088063811207223,
+          2.353037827426629
+        ]
+      },
+      "L5H9": {
+        "individual_effects": [
+          -0.0028099363500420083,
+          -0.04797161709178566,
+          0.0047823082317006715,
+          -0.06787105040116748,
+          -0.039026628841053235
+        ],
+        "full_head_effect": 0.13347408988259035,
+        "max_individual": 0.06787105040116748,
+        "opposition_ratio": 0.5084960718658567,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.607229298749991,
+          2.432977791432365,
+          2.269360802315676,
+          2.2074323946604837,
+          2.0122903140707202
+        ]
+      },
+      "L5H10": {
+        "individual_effects": [
+          0.07872531630776125,
+          -0.006478049538352515,
+          0.06829948858781298,
+          0.041401754726063,
+          -0.005832650444724585
+        ],
+        "full_head_effect": 0.1342849948189473,
+        "max_individual": 0.07872531630776125,
+        "opposition_ratio": 0.5862554964827187,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.177013384092394,
+          3.408394698540764,
+          3.358452848185937,
+          3.040191505480895,
+          2.9354198966438805
+        ]
+      },
+      "L5H11": {
+        "individual_effects": [
+          0.060116702860051774,
+          0.017020268873734867,
+          0.015591534701260734,
+          0.010182207280939437,
+          -0.0020045150410044066
+        ],
+        "full_head_effect": 0.17954117601568065,
+        "max_individual": 0.060116702860051774,
+        "opposition_ratio": 0.33483518485364794,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.6131248166022023,
+          2.2155720748326564,
+          2.165419822601096,
+          2.1269457673570984,
+          2.1002838938930464
+        ]
+      },
+      "L6H0": {
+        "individual_effects": [
+          -0.015690586783669414,
+          -9.753487326902288e-05,
+          0.027408101341940938,
+          0.033661040392789054,
+          -0.0017373128370805624
+        ],
+        "full_head_effect": 0.012397701090032243,
+        "max_individual": 0.033661040392789054,
+        "opposition_ratio": 2.7151034008920045,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.5256093643084228,
+          3.066514391240611,
+          2.7780216999496856,
+          2.6992143285046795,
+          2.4625584840640924
+        ]
+      },
+      "L6H1": {
+        "individual_effects": [
+          -0.018027197230945813,
+          -0.009436737407337414,
+          -0.057847759940407695,
+          0.05722784996032715,
+          0.12802143530412158
+        ],
+        "full_head_effect": -0.017015803943980945,
+        "max_individual": 0.12802143530412158,
+        "opposition_ratio": 7.5236783243149095,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.8503848148906825,
+          2.7129639757153248,
+          2.6682061858612274,
+          2.601106148434994,
+          2.5014679569741545
+        ]
+      },
+      "L6H2": {
+        "individual_effects": [
+          -0.009641473943537093,
+          0.0104146870699795,
+          0.009343429045243656,
+          0.0839817307212134,
+          0.015602371909401391
+        ],
+        "full_head_effect": 0.2930136810649526,
+        "max_individual": 0.0839817307212134,
+        "opposition_ratio": 0.2866136844395231,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.3260250827447977,
+          2.1841604301121795,
+          2.105847893438942,
+          2.084520375005061,
+          1.9196182690459298
+        ]
+      },
+      "L6H3": {
+        "individual_effects": [
+          -0.01985801349986671,
+          0.01931285858154297,
+          0.010642658580433118,
+          0.030999833887273454,
+          -0.045405344529585445
+        ],
+        "full_head_effect": 0.07687622850591502,
+        "max_individual": 0.045405344529585445,
+        "opposition_ratio": 0.5906291894391237,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.4915656487758815,
+          2.3795692156845853,
+          2.199239693310679,
+          2.136867304209176,
+          2.0793164031644693
+        ]
+      },
+      "L6H4": {
+        "individual_effects": [
+          0.022383841601285148,
+          0.010086666453968274,
+          0.005101680755615234,
+          -0.018326325850053227,
+          0.01736194437200389
+        ],
+        "full_head_effect": 0.048331282355568383,
+        "max_individual": 0.022383841601285148,
+        "opposition_ratio": 0.4631336167869389,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.4159630711082207,
+          3.1661433931378666,
+          2.932764160817418,
+          2.634466350872205,
+          2.5116700361130286
+        ]
+      },
+      "L6H5": {
+        "individual_effects": [
+          0.047240820798006844,
+          -0.008609685030850578,
+          0.0679610425775703,
+          0.003468145023692859,
+          0.014411752874201156
+        ],
+        "full_head_effect": 0.10428385301069776,
+        "max_individual": 0.0679610425775703,
+        "opposition_ratio": 0.651692861507511,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.7106903123642705,
+          1.5693618498309096,
+          1.4959766965443186,
+          1.4552524708525398,
+          1.4079275887681548
+        ]
+      },
+      "L6H6": {
+        "individual_effects": [
+          -0.028278849341652812,
+          0.012085784565318836,
+          0.051770145242864274,
+          0.06551469456065773,
+          -0.023462317206643046
+        ],
+        "full_head_effect": 0.19069056077436963,
+        "max_individual": 0.06551469456065773,
+        "opposition_ratio": 0.34356548270984705,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.9940641713247127,
+          1.9560691322753594,
+          1.8464000235126774,
+          1.7921949013789258,
+          1.7591698799728759
+        ]
+      },
+      "L6H7": {
+        "individual_effects": [
+          -0.00028022852810938303,
+          -0.020606257698752906,
+          0.051368539983576156,
+          -0.09432556412436766,
+          0.021143306385387195
+        ],
+        "full_head_effect": -0.03947149623524071,
+        "max_individual": 0.09432556412436766,
+        "opposition_ratio": 2.389713416542656,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.4774939704052756,
+          2.3908330636484183,
+          2.1948273748314095,
+          2.0838426124897103,
+          1.9653005719910535
+        ]
+      },
+      "L6H8": {
+        "individual_effects": [
+          -0.020265124060891093,
+          0.027330268513072742,
+          -0.002700133757157719,
+          0.012926101684570312,
+          0.05167148329994875
+        ],
+        "full_head_effect": 0.025293068452314937,
+        "max_individual": 0.05167148329994875,
+        "opposition_ratio": 2.042910823467903,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.4189289226551662,
+          2.3633217065716945,
+          2.3516793090156334,
+          2.148586070463563,
+          1.9956697934096161
+        ]
+      },
+      "L6H9": {
+        "individual_effects": [
+          -0.028056469830599617,
+          0.14347566257823585,
+          0.0004995085976338132,
+          -0.004027995196255851,
+          0.024889274076981938
+        ],
+        "full_head_effect": 0.0886328437111592,
+        "max_individual": 0.14347566257823585,
+        "opposition_ratio": 1.6187640672548085,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.094368158436145,
+          4.04405867105499,
+          3.8622647982509055,
+          3.843397687194098,
+          3.7766520068296425
+        ]
+      },
+      "L6H10": {
+        "individual_effects": [
+          -0.015000560066916968,
+          -0.01938165317882179,
+          0.006948557767000985,
+          0.005611723119562484,
+          0.003128420222889172
+        ],
+        "full_head_effect": -0.04643013260581297,
+        "max_individual": 0.01938165317882179,
+        "opposition_ratio": 0.4174369550776437,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.8311692761743075,
+          4.004504211375917,
+          3.705561411082426,
+          3.2442503477167173,
+          3.1606269653762356
+        ]
+      },
+      "L6H11": {
+        "individual_effects": [
+          -0.046058047901500476,
+          0.013645670630714868,
+          -0.014789321205832984,
+          0.02990456060929736,
+          0.020603526722301257
+        ],
+        "full_head_effect": -0.03826613859696826,
+        "max_individual": 0.046058047901500476,
+        "opposition_ratio": 1.2036241332473916,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.152145602433011,
+          2.849169074089139,
+          2.357101276685204,
+          2.3399063568519085,
+          2.2088604404314345
+        ]
+      },
+      "L7H0": {
+        "individual_effects": [
+          0.015877528624101078,
+          -0.0011967528950083128,
+          -0.03255924311551173,
+          0.32293501767245214,
+          0.14590928771279055
+        ],
+        "full_head_effect": 0.012066906148737289,
+        "max_individual": 0.32293501767245214,
+        "opposition_ratio": 26.762039390373886,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.162963803543636,
+          3.1435207231582334,
+          2.654039975869369,
+          2.5213427584458796,
+          2.4135267275241663
+        ]
+      },
+      "L7H1": {
+        "individual_effects": [
+          -0.06753886829722999,
+          -0.008001999421553219,
+          0.010225296020507812,
+          0.004509774121371102,
+          -0.02501411871476611
+        ],
+        "full_head_effect": -0.08051570979031641,
+        "max_individual": 0.06753886829722999,
+        "opposition_ratio": 0.8388284531443435,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.6271704549197814,
+          3.187352717659175,
+          3.1071580986650797,
+          2.9840928536515086,
+          2.9318841398755673
+        ]
+      },
+      "L7H2": {
+        "individual_effects": [
+          -0.013700246810913086,
+          0.006500959396362305,
+          0.004889076406305648,
+          0.002999630841341805,
+          0.004887927662242664
+        ],
+        "full_head_effect": -0.03263085538690724,
+        "max_individual": 0.013700246810913086,
+        "opposition_ratio": 0.41985558295876463,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.635503322315519,
+          3.591443504679325,
+          3.4888988359541284,
+          3.47273365680146,
+          3.4182161584405137
+        ]
+      },
+      "L7H3": {
+        "individual_effects": [
+          0.11156405102122902,
+          0.016646580262617672,
+          0.003181349147449719,
+          -0.010252432389692867,
+          0.4087857116352427
+        ],
+        "full_head_effect": 0.29563606869090675,
+        "max_individual": 0.4087857116352427,
+        "opposition_ratio": 1.382732876422586,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.826317546993717,
+          1.6899009477826874,
+          1.6392151059630982,
+          1.6217749158970647,
+          1.5946995778039676
+        ]
+      },
+      "L7H4": {
+        "individual_effects": [
+          0.01285752383145411,
+          0.01743682948025782,
+          -0.008655591444535649,
+          0.0012763847004282347,
+          -0.03027827089483104
+        ],
+        "full_head_effect": -0.04818038506941358,
+        "max_individual": 0.03027827089483104,
+        "opposition_ratio": 0.6284356351907332,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.6799927469912794,
+          2.2751814847863163,
+          2.1602634713655857,
+          2.0516326449011935,
+          2.0190774305294124
+        ]
+      },
+      "L7H5": {
+        "individual_effects": [
+          0.04477574608542678,
+          -0.008233720606023454,
+          -0.08459795605052589,
+          0.020234433087435555,
+          -0.034070058302445805
+        ],
+        "full_head_effect": -0.19263341210105223,
+        "max_individual": 0.08459795605052589,
+        "opposition_ratio": 0.4391655379397383,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.828997623830381,
+          2.656756314746075,
+          2.4803486070467464,
+          2.3622785606400845,
+          2.290971685293479
+        ]
+      },
+      "L7H6": {
+        "individual_effects": [
+          -0.0756737969138408,
+          0.07374085079539894,
+          -0.008128664710305156,
+          0.01774298061024071,
+          0.0005152225494384766
+        ],
+        "full_head_effect": 0.44358132102272707,
+        "max_individual": 0.0756737969138408,
+        "opposition_ratio": 0.17059734783098232,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.9411636041371714,
+          1.8488374255606113,
+          1.780186167859754,
+          1.692360852019462,
+          1.6540092440969698
+        ]
+      },
+      "L7H7": {
+        "individual_effects": [
+          0.030910058455033695,
+          -0.011016650633378422,
+          -0.025189638137817383,
+          0.07886927778070607,
+          -0.03369938243519188
+        ],
+        "full_head_effect": 0.09066369316794631,
+        "max_individual": 0.07886927778070607,
+        "opposition_ratio": 0.8699102697549266,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.5331000707212117,
+          3.4294697503752882,
+          3.222995732570819,
+          3.179578306707951,
+          3.1385374326174444
+        ]
+      },
+      "L7H8": {
+        "individual_effects": [
+          0.050064043565229976,
+          -0.0024459362030029297,
+          -0.04166646437211474,
+          -0.010534156452525867,
+          -0.02544799717989843
+        ],
+        "full_head_effect": 0.021238608793778813,
+        "max_individual": 0.050064043565229976,
+        "opposition_ratio": 2.3572185942750954,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.3293387445910243,
+          2.9384904793953486,
+          2.7624880784377486,
+          2.670645095354745,
+          2.4216635702005536
+        ]
+      },
+      "L7H9": {
+        "individual_effects": [
+          -0.008509657599709453,
+          -0.003684802488847172,
+          0.04710154099897901,
+          -0.03472367199984472,
+          0.08854441209272901
+        ],
+        "full_head_effect": -0.01779584451155225,
+        "max_individual": 0.08854441209272901,
+        "opposition_ratio": 4.975566741732881,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.1723193499630296,
+          2.0850861999929693,
+          2.0630825699247097,
+          2.05955689377411,
+          2.0380160976251447
+        ]
+      },
+      "L7H10": {
+        "individual_effects": [
+          0.062365076758644555,
+          0.0724083293568003,
+          -0.023426922884854484,
+          0.025026321411132812,
+          0.0012020414525810708
+        ],
+        "full_head_effect": 0.06168805469166161,
+        "max_individual": 0.0724083293568003,
+        "opposition_ratio": 1.1737820185564671,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.547389710310611,
+          3.305598295529831,
+          3.124242333111463,
+          3.0659024586353216,
+          2.996955504279356
+        ]
+      },
+      "L7H11": {
+        "individual_effects": [
+          -0.011750156229192399,
+          -0.03209014372392138,
+          -0.01250613819469093,
+          -0.008429115468805648,
+          0.006010944193059586
+        ],
+        "full_head_effect": -0.013766700571233415,
+        "max_individual": 0.03209014372392138,
+        "opposition_ratio": 2.3309974352878875,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.9836288878983517,
+          2.833131085104212,
+          2.77063792069971,
+          2.734806534093422,
+          2.681718279959679
+        ]
+      },
+      "L8H0": {
+        "individual_effects": [
+          -0.4804382757707075,
+          -0.039315982298417484,
+          0.022724520076404797,
+          0.012127529491077649,
+          0.005917289040305196
+        ],
+        "full_head_effect": -0.2911337072199043,
+        "max_individual": 0.4804382757707075,
+        "opposition_ratio": 1.65023239788519,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.570628862358407,
+          2.1284203335439167,
+          1.9535736741869585,
+          1.9378066454432183,
+          1.8151969244188848
+        ]
+      },
+      "L8H1": {
+        "individual_effects": [
+          0.027712648565119125,
+          -0.028463580391624,
+          -0.010748971592296375,
+          -0.03316549821333448,
+          0.04187065904790721
+        ],
+        "full_head_effect": -0.027386448600075664,
+        "max_individual": 0.04187065904790721,
+        "opposition_ratio": 1.5288823921401598,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.051637123270998,
+          2.943097113260466,
+          2.761152419808245,
+          2.626133406327918,
+          2.542291573218529
+        ]
+      },
+      "L8H2": {
+        "individual_effects": [
+          -0.024025613611394547,
+          -0.05003478310324949,
+          -0.007970549843528296,
+          0.002454215830022477,
+          0.03125710920854052
+        ],
+        "full_head_effect": 0.23018706928599952,
+        "max_individual": 0.05003478310324949,
+        "opposition_ratio": 0.2173657419526159,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.531228735966372,
+          2.3480853568633306,
+          2.1016017849244477,
+          2.049540519184682,
+          1.9876886460237957
+        ]
+      },
+      "L8H3": {
+        "individual_effects": [
+          0.009514678608287586,
+          0.01861205967989843,
+          -0.034614281220869625,
+          0.06477579203518946,
+          -0.023398507725108875
+        ],
+        "full_head_effect": -0.11132168769836426,
+        "max_individual": 0.06477579203518946,
+        "opposition_ratio": 0.5818793567943837,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.6438861991959377,
+          2.489330450124281,
+          2.398264020751706,
+          2.290573266869437,
+          2.2697649713026617
+        ]
+      },
+      "L8H4": {
+        "individual_effects": [
+          0.023089148781516133,
+          0.010668624531139148,
+          -0.12578398531133494,
+          0.11865388263355614,
+          0.27993297576904297
+        ],
+        "full_head_effect": -0.012303460728038562,
+        "max_individual": 0.27993297576904297,
+        "opposition_ratio": 22.752376908969932,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.843851709962398,
+          2.830771987498726,
+          2.6336448417718166,
+          2.505114100940121,
+          2.3642323972396517
+        ]
+      },
+      "L8H5": {
+        "individual_effects": [
+          0.016196272589943383,
+          0.029422023079611836,
+          0.011449488726529289,
+          0.07270760969682177,
+          0.04024598815224367
+        ],
+        "full_head_effect": -0.010481574318625952,
+        "max_individual": 0.07270760969682177,
+        "opposition_ratio": 6.936706976128481,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.593552021714457,
+          2.5684513976405126,
+          2.5524028967269774,
+          2.401110894357418,
+          2.3497818924601583
+        ]
+      },
+      "L8H6": {
+        "individual_effects": [
+          0.020937312733043445,
+          -0.014069340445778789,
+          -0.012253089384599125,
+          0.009096969257701648,
+          -0.009346311742609359
+        ],
+        "full_head_effect": 0.08411676233465037,
+        "max_individual": 0.020937312733043445,
+        "opposition_ratio": 0.24890773434367788,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.685403796152979,
+          2.633429108700021,
+          2.353445481056039,
+          2.348359493832057,
+          2.2896371371755153
+        ]
+      },
+      "L8H7": {
+        "individual_effects": [
+          0.03216520222750585,
+          -0.0008618181402031411,
+          0.029271667653864242,
+          0.2072235670956699,
+          -0.009385369040749492
+        ],
+        "full_head_effect": -0.003928206183693828,
+        "max_individual": 0.2072235670956699,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.816521756732944,
+          3.801532601035033,
+          3.155583626907938,
+          3.0035880203553225,
+          2.5146738686551413
+        ]
+      },
+      "L8H8": {
+        "individual_effects": [
+          0.08239886977455813,
+          0.03822669115933497,
+          0.022693764079700696,
+          -0.024697715585881852,
+          0.050881147384643555
+        ],
+        "full_head_effect": -0.037973317232999015,
+        "max_individual": 0.08239886977455813,
+        "opposition_ratio": 2.1699149765865875,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.4177333561786423,
+          2.356244183529885,
+          2.166392852693063,
+          2.0252876206732644,
+          1.9253737623139207
+        ]
+      },
+      "L8H9": {
+        "individual_effects": [
+          0.09640032594854198,
+          -0.0057500709186899535,
+          -0.003167780962857414,
+          0.02494725314053614,
+          -0.011992259459062016
+        ],
+        "full_head_effect": 0.158606854352084,
+        "max_individual": 0.09640032594854198,
+        "opposition_ratio": 0.6077941986955202,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.2113331991322545,
+          1.981997257178228,
+          1.8632067653223807,
+          1.6847166260243107,
+          1.661565202216228
+        ]
+      },
+      "L8H10": {
+        "individual_effects": [
+          0.00018221681768260112,
+          0.2983451106331563,
+          -0.004685662009499492,
+          -0.07380208102139552,
+          0.0884561538696289
+        ],
+        "full_head_effect": 0.4192910844629463,
+        "max_individual": 0.2983451106331563,
+        "opposition_ratio": 0.7115465167004326,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.4498448764364071,
+          1.3602383243312568,
+          1.3127484901566124,
+          1.2849352337458013,
+          1.2718549276327789
+        ]
+      },
+      "L8H11": {
+        "individual_effects": [
+          -0.014934778213500977,
+          -0.0055906339125200155,
+          0.15198995850302932,
+          0.011721459302035164,
+          0.027137951417402828
+        ],
+        "full_head_effect": 0.17779621210965235,
+        "max_individual": 0.15198995850302932,
+        "opposition_ratio": 0.8548548740132466,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.5735178088100943,
+          2.2150828628488326,
+          2.0825753802628353,
+          2.0592378796100204,
+          1.999154431931172
+        ]
+      },
+      "L9H0": {
+        "individual_effects": [
+          0.034770640459927726,
+          0.07142702015963476,
+          -0.003520792180841781,
+          0.0077934698625043985,
+          0.05989274111661036
+        ],
+        "full_head_effect": 0.07206858288158058,
+        "max_individual": 0.07142702015963476,
+        "opposition_ratio": 0.9910978862592594,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.80585902522198,
+          2.5547544908370265,
+          2.299507000497115,
+          2.215501127451563,
+          2.0134116103956776
+        ]
+      },
+      "L9H1": {
+        "individual_effects": [
+          -0.11946285854686378,
+          -0.0029466368935326948,
+          0.02676571499217628,
+          0.025034362619573258,
+          0.044477419419722164
+        ],
+        "full_head_effect": 0.07940699837424514,
+        "max_individual": 0.11946285854686378,
+        "opposition_ratio": 1.5044374046710014,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.233802006312896,
+          2.0068917982720302,
+          1.9094606556144071,
+          1.8673831226222783,
+          1.844904571771254
+        ]
+      },
+      "L9H2": {
+        "individual_effects": [
+          -0.0046353990381415855,
+          0.06816929036920705,
+          0.02894934740933497,
+          0.015687097202647937,
+          0.04316282272338867
+        ],
+        "full_head_effect": 0.0559645782817495,
+        "max_individual": 0.06816929036920705,
+        "opposition_ratio": 1.2180792290797553,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.9491082914182605,
+          2.8625658402123695,
+          2.3972613386026396,
+          2.304101040859782,
+          2.1273248607916337
+        ]
+      },
+      "L9H3": {
+        "individual_effects": [
+          0.015435283834284164,
+          0.009578964926979516,
+          0.012432336807250977,
+          -0.0701554905284536,
+          -0.03296542167663574
+        ],
+        "full_head_effect": 0.025479858571832992,
+        "max_individual": 0.0701554905284536,
+        "opposition_ratio": 2.7533704840107633,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.574003183250014,
+          4.546286947186792,
+          3.901761438348335,
+          3.7046743027566893,
+          2.466102985750063
+        ]
+      },
+      "L9H4": {
+        "individual_effects": [
+          0.005205327814275407,
+          -0.012062961404973649,
+          0.020522616126320337,
+          -0.03561082753268163,
+          0.02190412174571632
+        ],
+        "full_head_effect": -0.2164203036915171,
+        "max_individual": 0.03561082753268163,
+        "opposition_ratio": 0.16454476278455316,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.614890204509061,
+          2.459385818893385,
+          2.3870436958413714,
+          2.33112300102717,
+          2.24425401259472
+        ]
+      },
+      "L9H5": {
+        "individual_effects": [
+          -0.1714460849761963,
+          -0.040242780338634265,
+          -0.03759819811040721,
+          -0.1006394949826328,
+          0.021249120885675765
+        ],
+        "full_head_effect": 0.09973153201016505,
+        "max_individual": 0.1714460849761963,
+        "opposition_ratio": 1.7190760185928138,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.6877336635739972,
+          1.6119204613478169,
+          1.5580052355086964,
+          1.4976808933273198,
+          1.4901715485438463
+        ]
+      },
+      "L9H6": {
+        "individual_effects": [
+          -0.04173486882990041,
+          0.03964530337940575,
+          -0.12232004512440087,
+          0.07775792208584864,
+          0.02972921458157618
+        ],
+        "full_head_effect": 0.22943247448314308,
+        "max_individual": 0.12232004512440087,
+        "opposition_ratio": 0.5331418117681854,
+        "has_opposing_directions": true,
+        "singular_values": [
+          1.9678847807706692,
+          1.863593817584278,
+          1.8172284996370647,
+          1.7676114435865333,
+          1.7370755937908982
+        ]
+      },
+      "L9H7": {
+        "individual_effects": [
+          -0.3367351618680088,
+          0.1087040250951592,
+          0.08839299462058303,
+          -0.16814630681818166,
+          -0.0064670389348808754
+        ],
+        "full_head_effect": 0.03875899314880371,
+        "max_individual": 0.3367351618680088,
+        "opposition_ratio": 8.68792335691522,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.4264306994343663,
+          2.089006205733955,
+          2.0249685298988314,
+          1.8178003846104167,
+          1.8016110525575957
+        ]
+      },
+      "L9H8": {
+        "individual_effects": [
+          0.14821780811656593,
+          0.11436698653481203,
+          -0.06575610420920652,
+          0.08468768813393313,
+          -0.04135205528952879
+        ],
+        "full_head_effect": 0.3316997398029673,
+        "max_individual": 0.14821780811656593,
+        "opposition_ratio": 0.4468433053478085,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.9932235548829125,
+          2.3815572864838748,
+          2.32043015283835,
+          2.2651214289008053,
+          2.115695623970164
+        ]
+      },
+      "L9H9": {
+        "individual_effects": [
+          -0.005134604193947734,
+          -0.0631190213290127,
+          0.00468401475386182,
+          -0.0210768092762339,
+          0.10044951872392138
+        ],
+        "full_head_effect": 0.10276707735928614,
+        "max_individual": 0.10044951872392138,
+        "opposition_ratio": 0.9774484329522938,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.4273984846542156,
+          2.308632075227218,
+          2.2389851146112507,
+          2.1317376627137268,
+          2.0719480135326087
+        ]
+      },
+      "L9H10": {
+        "individual_effects": [
+          0.015157092701305164,
+          0.011720700697465336,
+          -0.1577284769578413,
+          0.009537696838378906,
+          0.007285356521606445
+        ],
+        "full_head_effect": 0.029219323938542985,
+        "max_individual": 0.1577284769578413,
+        "opposition_ratio": 5.398087830149379,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.03953850279712,
+          4.020937996467817,
+          3.489186608620012,
+          3.329159542523616,
+          2.4744564461727814
+        ]
+      },
+      "L9H11": {
+        "individual_effects": [
+          -0.005608840422196781,
+          -0.011549299413507796,
+          7.921999151072612e-05,
+          -0.003170100125399422,
+          -0.034858660264448726
+        ],
+        "full_head_effect": 0.11044981262900588,
+        "max_individual": 0.034858660264448726,
+        "opposition_ratio": 0.3156063322763328,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.111187880408901,
+          3.0351177112567,
+          2.640914889397696,
+          2.562295682118732,
+          2.45041898997453
+        ]
+      },
+      "L10H0": {
+        "individual_effects": [
+          0.06905263120477834,
+          0.015130844983187508,
+          -0.19392290982333105,
+          -0.008643800562078141,
+          0.11456344344399172
+        ],
+        "full_head_effect": 0.029755570671774922,
+        "max_individual": 0.19392290982333105,
+        "opposition_ratio": 6.517196795263598,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.9291069792860904,
+          2.32526353997454,
+          2.2727379498625027,
+          2.2403764780417528,
+          2.047175737824
+        ]
+      },
+      "L10H1": {
+        "individual_effects": [
+          0.05058561671863915,
+          -0.022796890952370585,
+          0.06272305141795753,
+          0.00657090273770411,
+          -0.04755239053206006
+        ],
+        "full_head_effect": 0.06714773178100586,
+        "max_individual": 0.06272305141795753,
+        "opposition_ratio": 0.9341052892526752,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.276186835070131,
+          2.2535992061016366,
+          2.1616064282536738,
+          2.068823282404197,
+          2.0645677246495797
+        ]
+      },
+      "L10H2": {
+        "individual_effects": [
+          0.013262748718261719,
+          0.022091453725641585,
+          0.07852716879411181,
+          -0.012503732334483875,
+          -0.04060513323003612
+        ],
+        "full_head_effect": 0.03453805229880569,
+        "max_individual": 0.07852716879411181,
+        "opposition_ratio": 2.2736420720755945,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.2445483971594213,
+          2.048218738399525,
+          1.987079974632128,
+          1.9195632896967276,
+          1.9068102311749302
+        ]
+      },
+      "L10H3": {
+        "individual_effects": [
+          0.056867816231467305,
+          -0.0014476125890556801,
+          -0.003071719949895524,
+          0.014581268483942367,
+          0.006766037507490719
+        ],
+        "full_head_effect": 0.07417329874905665,
+        "max_individual": 0.056867816231467305,
+        "opposition_ratio": 0.7666885144728791,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.4393178723675457,
+          2.2480754398205005,
+          2.1119814041499363,
+          2.0302550529747516,
+          1.974944063914391
+        ]
+      },
+      "L10H4": {
+        "individual_effects": [
+          -0.013343117453835429,
+          -0.08697360212152638,
+          -0.11941404776139697,
+          -0.016408335078846203,
+          -0.023665211417458476
+        ],
+        "full_head_effect": -0.003700061277909672,
+        "max_individual": 0.11941404776139697,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": false,
+        "singular_values": [
+          2.6434245671936947,
+          2.5131168886200532,
+          2.3161122605813005,
+          2.2433977482585097,
+          2.105969340243441
+        ]
+      },
+      "L10H5": {
+        "individual_effects": [
+          0.010366851633245133,
+          0.010900324041193343,
+          -0.029201811010187484,
+          -0.06839132308959961,
+          -0.01320338249206543
+        ],
+        "full_head_effect": 0.04965749653902929,
+        "max_individual": 0.06839132308959961,
+        "opposition_ratio": 1.3772607935610708,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.932744120800285,
+          4.904870235739561,
+          4.558287649883625,
+          4.3443149727635095,
+          2.6309157375066947
+        ]
+      },
+      "L10H6": {
+        "individual_effects": [
+          0.036902774464000476,
+          0.01247618415138918,
+          0.014814203435724593,
+          -0.043764894658869125,
+          0.10490924661809764
+        ],
+        "full_head_effect": 0.03567303310741066,
+        "max_individual": 0.10490924661809764,
+        "opposition_ratio": 2.940855808425888,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.341465035710386,
+          2.1748084906658645,
+          2.106413753918316,
+          1.9928488007383445,
+          1.9686328865135085
+        ]
+      },
+      "L10H7": {
+        "individual_effects": [
+          0.03668332099914551,
+          0.07916844974864601,
+          -0.07068170200694679,
+          -0.02826757864518603,
+          -0.0500333309173584
+        ],
+        "full_head_effect": -0.035890275781804704,
+        "max_individual": 0.07916844974864601,
+        "opposition_ratio": 2.2058467934309394,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.0198389941248815,
+          1.8896264256401945,
+          1.8079750363992957,
+          1.7966069720690638,
+          1.7272868311300411
+        ]
+      },
+      "L10H8": {
+        "individual_effects": [
+          -0.10292649269104004,
+          0.01026363806291064,
+          -0.008418690074573743,
+          0.008933782577514648,
+          -0.00887651876969775
+        ],
+        "full_head_effect": 0.042644630778919446,
+        "max_individual": 0.10292649269104004,
+        "opposition_ratio": 2.413586207948124,
+        "has_opposing_directions": true,
+        "singular_values": [
+          2.2169630885079856,
+          2.0763903686572394,
+          1.9796164808105747,
+          1.9642863482393365,
+          1.9329977368600382
+        ]
+      },
+      "L10H9": {
+        "individual_effects": [
+          0.015076572244817399,
+          0.010419563813643062,
+          0.05029030279679736,
+          -0.12545223669572314,
+          0.044480107047340844
+        ],
+        "full_head_effect": 0.028699831529097164,
+        "max_individual": 0.12545223669572314,
+        "opposition_ratio": 4.371183732160033,
+        "has_opposing_directions": true,
+        "singular_values": [
+          6.1992515709505405,
+          6.169660978877181,
+          5.44926215163998,
+          5.116362554214551,
+          2.689575661586025
+        ]
+      },
+      "L10H10": {
+        "individual_effects": [
+          -0.22506310723044676,
+          0.03575834360989649,
+          0.018467426300048828,
+          0.07011896913701854,
+          -0.006453210657292985
+        ],
+        "full_head_effect": 0.03849228945645411,
+        "max_individual": 0.22506310723044676,
+        "opposition_ratio": 5.846965987436473,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.269291361420592,
+          2.14616637788914,
+          2.1319399354439383,
+          1.9611631303883192,
+          1.8956471250520013
+        ]
+      },
+      "L10H11": {
+        "individual_effects": [
+          -0.02234823053533397,
+          0.08003237030722854,
+          0.026503931392322766,
+          -0.009759231047196781,
+          -0.003374641591852523
+        ],
+        "full_head_effect": -0.024176077409224117,
+        "max_individual": 0.08003237030722854,
+        "opposition_ratio": 3.3103951874630027,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.8758547399331635,
+          3.2075003016883272,
+          2.578166699572443,
+          2.49500725268897,
+          2.4377601615119895
+        ]
+      },
+      "L11H0": {
+        "individual_effects": [
+          0.23977600444446923,
+          0.0243576873432505,
+          -0.03731989860534668,
+          0.023276524110273922,
+          -0.027171590111472632
+        ],
+        "full_head_effect": 0.12876753373579541,
+        "max_individual": 0.23977600444446923,
+        "opposition_ratio": 1.8620843118455654,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.309978827240793,
+          2.8757566170794018,
+          2.6311336090498707,
+          2.6138521696798507,
+          2.3994069510119123
+        ]
+      },
+      "L11H1": {
+        "individual_effects": [
+          0.11511794003573339,
+          -0.006357518109408211,
+          0.012793432582508313,
+          0.009195479479703117,
+          0.014362140135331547
+        ],
+        "full_head_effect": 0.05254769325256348,
+        "max_individual": 0.11511794003573339,
+        "opposition_ratio": 2.1907325119379526,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.401125303284618,
+          3.170297620910692,
+          3.111509995097372,
+          2.967316427701812,
+          2.6916338420988457
+        ]
+      },
+      "L11H2": {
+        "individual_effects": [
+          0.09315575252879738,
+          0.03937454657121142,
+          -0.02321668104691943,
+          -0.06563615798950195,
+          -0.09893066232854686
+        ],
+        "full_head_effect": -0.0881263993003154,
+        "max_individual": 0.09893066232854686,
+        "opposition_ratio": 1.1225996195693064,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.825752913723901,
+          3.6571590112723973,
+          3.3118010423895994,
+          3.1324584532795092,
+          3.063598448216562
+        ]
+      },
+      "L11H3": {
+        "individual_effects": [
+          -0.11609773202375928,
+          -0.07863001389936963,
+          0.1817664666609331,
+          0.026648911562833,
+          0.09682501446117042
+        ],
+        "full_head_effect": 0.0019145662134345542,
+        "max_individual": 0.1817664666609331,
+        "opposition_ratio": 0.0,
+        "has_opposing_directions": true,
+        "singular_values": [
+          5.061654023795271,
+          4.733795822858965,
+          4.305591348287492,
+          3.538487741642555,
+          3.385882397802281
+        ]
+      },
+      "L11H4": {
+        "individual_effects": [
+          -0.08100243048234423,
+          0.07266898588700732,
+          -0.05459351973100146,
+          0.05193773182955663,
+          0.028646859255704094
+        ],
+        "full_head_effect": -0.05993099646134814,
+        "max_individual": 0.08100243048234423,
+        "opposition_ratio": 1.351594921913002,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.525393514167302,
+          3.006792366771591,
+          2.868496921689676,
+          2.714403411833403,
+          2.6263791160909693
+        ]
+      },
+      "L11H5": {
+        "individual_effects": [
+          -0.004920656030828141,
+          0.04547719521956006,
+          0.06608453663912695,
+          0.013972932642156266,
+          -0.02361893653869629
+        ],
+        "full_head_effect": 0.032916350798173344,
+        "max_individual": 0.06608453663912695,
+        "opposition_ratio": 2.0076507582606706,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.687506998428714,
+          3.3148724811499757,
+          3.1227025031950038,
+          2.9878784360821395,
+          2.9587013302388305
+        ]
+      },
+      "L11H6": {
+        "individual_effects": [
+          0.04868503050370654,
+          -0.04493195360357127,
+          0.07186815955422121,
+          -0.010462522506713867,
+          -0.18570336428555567
+        ],
+        "full_head_effect": 0.05198836326599121,
+        "max_individual": 0.18570336428555567,
+        "opposition_ratio": 3.5720179020722447,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.600962921402903,
+          3.490092645783164,
+          3.409018829257698,
+          3.0426383261158385,
+          2.9254329107137758
+        ]
+      },
+      "L11H7": {
+        "individual_effects": [
+          0.049987532875754415,
+          0.05380589311773143,
+          0.014698613773692859,
+          -0.028389020399613774,
+          0.023602767424149906
+        ],
+        "full_head_effect": 0.02346337925304054,
+        "max_individual": 0.05380589311773143,
+        "opposition_ratio": 2.293186012869775,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.612319939739344,
+          3.2425740703285837,
+          3.0834473869253647,
+          2.992832410649938,
+          2.7925171130854998
+        ]
+      },
+      "L11H8": {
+        "individual_effects": [
+          -0.02587249062278074,
+          -0.27942943572998047,
+          0.040870644829489766,
+          0.005797863006591797,
+          0.1151206710121846
+        ],
+        "full_head_effect": 0.44760571826588036,
+        "max_individual": 0.27942943572998047,
+        "opposition_ratio": 0.6242758399346404,
+        "has_opposing_directions": true,
+        "singular_values": [
+          6.145203426867396,
+          4.241803436167141,
+          3.6884024796250765,
+          3.3712804695694616,
+          3.2354619473945276
+        ]
+      },
+      "L11H9": {
+        "individual_effects": [
+          0.016789349642666984,
+          0.0412540652535176,
+          0.015296849337491203,
+          -0.04444198174910108,
+          0.022992806001143062
+        ],
+        "full_head_effect": 0.1360251036557285,
+        "max_individual": 0.04444198174910108,
+        "opposition_ratio": 0.32671896991588484,
+        "has_opposing_directions": true,
+        "singular_values": [
+          4.293483667567622,
+          3.8638965480335843,
+          3.3570677202641113,
+          3.250161478289045,
+          3.186947192182675
+        ]
+      },
+      "L11H10": {
+        "individual_effects": [
+          -0.1367639845067803,
+          0.19076739658008934,
+          -0.11896746808832326,
+          -0.11136913299560547,
+          -0.10306759314103564
+        ],
+        "full_head_effect": -0.057602882385253906,
+        "max_individual": 0.19076739658008934,
+        "opposition_ratio": 3.311768242849684,
+        "has_opposing_directions": true,
+        "singular_values": [
+          3.7311957170036454,
+          3.663847172016056,
+          3.3863147470003097,
+          3.1690900538441693,
+          2.937070996368368
+        ]
+      },
+      "L11H11": {
+        "individual_effects": [
+          0.4226647507060659,
+          0.09919183904474416,
+          0.08636615493080813,
+          -0.146233233538541,
+          0.11333387548273244
+        ],
+        "full_head_effect": 0.05678688396107079,
+        "max_individual": 0.4226647507060659,
+        "opposition_ratio": 7.442999531296981,
+        "has_opposing_directions": true,
+        "singular_values": [
+          5.493842192368798,
+          3.9147309480789936,
+          3.828868996106879,
+          3.5068476852217834,
+          3.2170115031022712
+        ]
+      }
+    },
+    "stats": {
+      "n_opposing": 139,
+      "n_high_ratio_3x": 26,
+      "n_high_ratio_5x": 18,
+      "mean_ratio": 2.3965941338797765,
+      "median_ratio": 1.1737820185564671
+    }
+  },
+  "consistent_opposing_heads": [],
+  "n_consistent": 0
+}

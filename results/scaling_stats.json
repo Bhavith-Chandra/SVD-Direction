@@ -1,0 +1,47 @@
+{
+  "pythia-410m": {
+    "model": "pythia-410m",
+    "d_model": 1024,
+    "n_layers": 24,
+    "n_heads": 16,
+    "qk_effective_rank_mean": 43.643229166666664,
+    "qk_effective_rank_min": 18,
+    "qk_effective_rank_max": 49,
+    "ov_effective_rank_mean": 49.9921875,
+    "qk_top_sv_max": 20.072467803955078,
+    "ov_top_sv_max": 8.847939491271973,
+    "alignment_mean": 0.10851733359568905,
+    "alignment_std": 0.16569863013351116,
+    "n_semantic_matching": 26,
+    "n_contrastive_matching": 4,
+    "random_baseline_mean": -0.0009989630400629066,
+    "random_baseline_std": 0.037929326341642484
+  },
+  "pythia-1.4b": {
+    "model": "pythia-1.4b",
+    "d_model": 2048,
+    "n_layers": 24,
+    "n_heads": 16,
+    "qk_effective_rank_mean": 41.192708333333336,
+    "qk_effective_rank_min": 1,
+    "qk_effective_rank_max": 56,
+    "ov_effective_rank_mean": 53.2578125,
+    "qk_top_sv_max": 299.53205660059285,
+    "ov_top_sv_max": 7.208630206189031,
+    "alignment_mean": 0.050373555163328386,
+    "alignment_std": 0.12797774278901125,
+    "n_semantic_matching": 24,
+    "n_contrastive_matching": 5,
+    "random_baseline_mean": 0.001325338016102553,
+    "random_baseline_std": 0.03009765018988588
+  },
+  "gpt2": {
+    "model": "gpt2",
+    "d_model": 768,
+    "n_layers": 12,
+    "n_heads": 12,
+    "n_semantic_matching": 11,
+    "n_contrastive_matching": 9,
+    "qk_effective_rank_mean": 45.6
+  }
+}

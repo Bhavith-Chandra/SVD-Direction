@@ -1,0 +1,5589 @@
+{
+  "n_clusters": 12,
+  "n_directions": 720,
+  "cluster_info": {
+    "0": {
+      "label": "whitespace_to_content_word",
+      "size": 25,
+      "layer_distribution": {
+        "1": 2,
+        "2": 4,
+        "3": 3,
+        "6": 1,
+        "7": 2,
+        "8": 2,
+        "9": 4,
+        "10": 3,
+        "11": 4
+      },
+      "rank_distribution": {
+        "2": 8,
+        "0": 8,
+        "4": 4,
+        "1": 3,
+        "3": 2
+      },
+      "top_heads": [
+        [
+          "L11H0",
+          2
+        ],
+        [
+          "L1H8",
+          1
+        ],
+        [
+          "L1H9",
+          1
+        ],
+        [
+          "L2H3",
+          1
+        ],
+        [
+          "L2H4",
+          1
+        ]
+      ],
+      "query_dominant_type": "whitespace",
+      "key_dominant_type": "content_word"
+    },
+    "1": {
+      "label": "number_to_content_word_early",
+      "size": 15,
+      "layer_distribution": {
+        "0": 14,
+        "11": 1
+      },
+      "rank_distribution": {
+        "0": 3,
+        "1": 3,
+        "2": 3,
+        "3": 4,
+        "4": 2
+      },
+      "top_heads": [
+        [
+          "L0H1",
+          5
+        ],
+        [
+          "L0H5",
+          5
+        ],
+        [
+          "L0H10",
+          3
+        ],
+        [
+          "L0H6",
+          1
+        ],
+        [
+          "L11H8",
+          1
+        ]
+      ],
+      "query_dominant_type": "number",
+      "key_dominant_type": "content_word"
+    },
+    "2": {
+      "label": "content_word_matcher",
+      "size": 175,
+      "layer_distribution": {
+        "0": 2,
+        "1": 28,
+        "2": 6,
+        "3": 17,
+        "4": 15,
+        "5": 18,
+        "6": 20,
+        "7": 18,
+        "8": 13,
+        "9": 16,
+        "10": 15,
+        "11": 7
+      },
+      "rank_distribution": {
+        "0": 27,
+        "2": 34,
+        "3": 33,
+        "4": 39,
+        "1": 42
+      },
+      "top_heads": [
+        [
+          "L9H6",
+          5
+        ],
+        [
+          "L1H3",
+          4
+        ],
+        [
+          "L1H4",
+          4
+        ],
+        [
+          "L3H10",
+          4
+        ],
+        [
+          "L6H9",
+          4
+        ]
+      ],
+      "query_dominant_type": "content_word",
+      "key_dominant_type": "content_word"
+    },
+    "3": {
+      "label": "content_word_matcher",
+      "size": 208,
+      "layer_distribution": {
+        "0": 38,
+        "1": 18,
+        "2": 8,
+        "3": 15,
+        "4": 17,
+        "5": 31,
+        "6": 18,
+        "7": 19,
+        "8": 12,
+        "9": 14,
+        "10": 12,
+        "11": 6
+      },
+      "rank_distribution": {
+        "0": 35,
+        "1": 33,
+        "2": 42,
+        "3": 46,
+        "4": 52
+      },
+      "top_heads": [
+        [
+          "L0H0",
+          5
+        ],
+        [
+          "L0H2",
+          5
+        ],
+        [
+          "L0H3",
+          5
+        ],
+        [
+          "L0H7",
+          5
+        ],
+        [
+          "L0H8",
+          5
+        ]
+      ],
+      "query_dominant_type": "content_word",
+      "key_dominant_type": "content_word"
+    },
+    "4": {
+      "label": "whitespace_to_content_word_late",
+      "size": 21,
+      "layer_distribution": {
+        "0": 1,
+        "2": 3,
+        "3": 1,
+        "7": 2,
+        "8": 5,
+        "9": 2,
+        "10": 3,
+        "11": 4
+      },
+      "rank_distribution": {
+        "0": 6,
+        "1": 2,
+        "3": 8,
+        "2": 1,
+        "4": 4
+      },
+      "top_heads": [
+        [
+          "L2H7",
+          2
+        ],
+        [
+          "L7H0",
+          2
+        ],
+        [
+          "L8H5",
+          2
+        ],
+        [
+          "L8H7",
+          2
+        ],
+        [
+          "L0H6",
+          1
+        ]
+      ],
+      "query_dominant_type": "whitespace",
+      "key_dominant_type": "content_word"
+    },
+    "5": {
+      "label": "content_word_to_other",
+      "size": 52,
+      "layer_distribution": {
+        "0": 1,
+        "2": 2,
+        "3": 15,
+        "4": 13,
+        "5": 5,
+        "6": 6,
+        "7": 4,
+        "9": 1,
+        "10": 2,
+        "11": 3
+      },
+      "rank_distribution": {
+        "4": 8,
+        "0": 20,
+        "1": 12,
+        "2": 7,
+        "3": 5
+      },
+      "top_heads": [
+        [
+          "L4H9",
+          3
+        ],
+        [
+          "L5H3",
+          3
+        ],
+        [
+          "L3H1",
+          2
+        ],
+        [
+          "L3H2",
+          2
+        ],
+        [
+          "L3H5",
+          2
+        ]
+      ],
+      "query_dominant_type": "content_word",
+      "key_dominant_type": "other"
+    },
+    "6": {
+      "label": "content_word_to_other",
+      "size": 21,
+      "layer_distribution": {
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "6": 2,
+        "7": 1,
+        "8": 3,
+        "9": 4,
+        "10": 4,
+        "11": 1
+      },
+      "rank_distribution": {
+        "2": 5,
+        "3": 6,
+        "0": 5,
+        "1": 3,
+        "4": 2
+      },
+      "top_heads": [
+        [
+          "L9H11",
+          4
+        ],
+        [
+          "L10H3",
+          3
+        ],
+        [
+          "L2H6",
+          2
+        ],
+        [
+          "L4H2",
+          2
+        ],
+        [
+          "L6H10",
+          2
+        ]
+      ],
+      "query_dominant_type": "content_word",
+      "key_dominant_type": "other"
+    },
+    "7": {
+      "label": "punctuation_to_content_word_late",
+      "size": 13,
+      "layer_distribution": {
+        "6": 1,
+        "7": 3,
+        "8": 3,
+        "9": 3,
+        "10": 3
+      },
+      "rank_distribution": {
+        "2": 7,
+        "1": 5,
+        "3": 1
+      },
+      "top_heads": [
+        [
+          "L7H0",
+          2
+        ],
+        [
+          "L8H7",
+          2
+        ],
+        [
+          "L9H10",
+          2
+        ],
+        [
+          "L6H8",
+          1
+        ],
+        [
+          "L7H9",
+          1
+        ]
+      ],
+      "query_dominant_type": "punctuation",
+      "key_dominant_type": "content_word"
+    },
+    "8": {
+      "label": "punctuation_to_content_word",
+      "size": 94,
+      "layer_distribution": {
+        "0": 4,
+        "1": 5,
+        "2": 14,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 8,
+        "7": 4,
+        "8": 12,
+        "9": 8,
+        "10": 8,
+        "11": 19
+      },
+      "rank_distribution": {
+        "1": 19,
+        "0": 15,
+        "3": 20,
+        "4": 21,
+        "2": 19
+      },
+      "top_heads": [
+        [
+          "L2H10",
+          3
+        ],
+        [
+          "L9H5",
+          3
+        ],
+        [
+          "L11H2",
+          3
+        ],
+        [
+          "L11H4",
+          3
+        ],
+        [
+          "L0H11",
+          2
+        ]
+      ],
+      "query_dominant_type": "punctuation",
+      "key_dominant_type": "content_word"
+    },
+    "9": {
+      "label": "proper_noun_to_content_word",
+      "size": 62,
+      "layer_distribution": {
+        "1": 5,
+        "2": 4,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 4,
+        "7": 6,
+        "8": 7,
+        "9": 6,
+        "10": 8,
+        "11": 15
+      },
+      "rank_distribution": {
+        "1": 11,
+        "4": 10,
+        "3": 16,
+        "2": 13,
+        "0": 12
+      },
+      "top_heads": [
+        [
+          "L11H0",
+          3
+        ],
+        [
+          "L3H5",
+          2
+        ],
+        [
+          "L5H6",
+          2
+        ],
+        [
+          "L7H3",
+          2
+        ],
+        [
+          "L7H4",
+          2
+        ]
+      ],
+      "query_dominant_type": "proper_noun",
+      "key_dominant_type": "content_word"
+    },
+    "10": {
+      "label": "content_word_matcher_early",
+      "size": 26,
+      "layer_distribution": {
+        "1": 2,
+        "2": 17,
+        "4": 6,
+        "8": 1
+      },
+      "rank_distribution": {
+        "0": 12,
+        "1": 9,
+        "2": 3,
+        "3": 1,
+        "4": 1
+      },
+      "top_heads": [
+        [
+          "L4H11",
+          5
+        ],
+        [
+          "L2H2",
+          3
+        ],
+        [
+          "L2H9",
+          3
+        ],
+        [
+          "L2H0",
+          2
+        ],
+        [
+          "L2H3",
+          2
+        ]
+      ],
+      "query_dominant_type": "content_word",
+      "key_dominant_type": "content_word"
+    },
+    "11": {
+      "label": "whitespace_to_content_word_late",
+      "size": 8,
+      "layer_distribution": {
+        "3": 1,
+        "7": 1,
+        "8": 2,
+        "9": 2,
+        "10": 2
+      },
+      "rank_distribution": {
+        "4": 1,
+        "3": 2,
+        "1": 2,
+        "2": 2,
+        "0": 1
+      },
+      "top_heads": [
+        [
+          "L8H4",
+          2
+        ],
+        [
+          "L3H8",
+          1
+        ],
+        [
+          "L7H3",
+          1
+        ],
+        [
+          "L9H3",
+          1
+        ],
+        [
+          "L9H7",
+          1
+        ]
+      ],
+      "query_dominant_type": "whitespace",
+      "key_dominant_type": "content_word"
+    }
+  },
+  "direction_assignments": [
+    {
+      "layer": 0,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 0,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 0,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 0,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 0,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 0,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 0,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 0,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 0,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 1,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 1,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 1,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 1,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 2,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 2,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 2,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 2,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 2,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 2,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 2,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 2,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 2,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 2,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 3,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 3,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 3,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 3,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 3,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 3,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 3,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 3,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 3,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 3,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 3,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 11,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 3,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 3,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 3,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 4,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 4,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 4,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 4,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 4,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 4,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 4,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 4,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 4,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 4,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 4,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 4,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 4,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 5,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 5,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 5,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 5,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 5,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 5,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 5,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 5,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 5,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 5,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 5,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 5,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 5,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 6,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 6,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 6,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 6,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 6,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 6,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 6,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 6,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 6,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 6,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 6,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 7,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 7,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 7,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 7,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 11,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 7,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 7,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 7,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 7,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 7,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 7,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 7,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 7,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 7,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 8,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 8,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 8,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 11,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 8,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 11,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 8,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 8,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 10,
+      "cluster_label": "content_word_matcher_early"
+    },
+    {
+      "layer": 8,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 8,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 8,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 8,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 8,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 8,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 8,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 8,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 8,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 8,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 9,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 11,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 9,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 9,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 11,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 9,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 9,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 9,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 9,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 9,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 9,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 9,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 9,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 9,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 9,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 9,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 10,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 10,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 10,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 10,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 10,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 11,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 10,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 10,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 10,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 10,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 11,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 10,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 10,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 10,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 10,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 7,
+      "cluster_label": "punctuation_to_content_word_late"
+    },
+    {
+      "layer": 10,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 10,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 10,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 0,
+      "sv_rank": 0,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 0,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 0,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 0,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 0,
+      "sv_rank": 4,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 1,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 1,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 1,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 1,
+      "sv_rank": 3,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 1,
+      "sv_rank": 4,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 2,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 2,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 2,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 2,
+      "sv_rank": 3,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 2,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 3,
+      "sv_rank": 0,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 11,
+      "head": 3,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 3,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 3,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 3,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 4,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 4,
+      "sv_rank": 1,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 11,
+      "head": 4,
+      "sv_rank": 2,
+      "cluster": 0,
+      "cluster_label": "whitespace_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 4,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 4,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 5,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 5,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 5,
+      "sv_rank": 2,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 5,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 5,
+      "sv_rank": 4,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 6,
+      "sv_rank": 0,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 6,
+      "sv_rank": 1,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 6,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 6,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 6,
+      "sv_rank": 4,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 11,
+      "head": 7,
+      "sv_rank": 0,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 7,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 7,
+      "sv_rank": 2,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 7,
+      "sv_rank": 3,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 7,
+      "sv_rank": 4,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 8,
+      "sv_rank": 0,
+      "cluster": 1,
+      "cluster_label": "number_to_content_word_early"
+    },
+    {
+      "layer": 11,
+      "head": 8,
+      "sv_rank": 1,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 11,
+      "head": 8,
+      "sv_rank": 2,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 8,
+      "sv_rank": 3,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 11,
+      "head": 8,
+      "sv_rank": 4,
+      "cluster": 6,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 11,
+      "head": 9,
+      "sv_rank": 0,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 9,
+      "sv_rank": 1,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 9,
+      "sv_rank": 2,
+      "cluster": 5,
+      "cluster_label": "content_word_to_other"
+    },
+    {
+      "layer": 11,
+      "head": 9,
+      "sv_rank": 3,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 9,
+      "sv_rank": 4,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 10,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 10,
+      "sv_rank": 1,
+      "cluster": 3,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 10,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 10,
+      "sv_rank": 3,
+      "cluster": 4,
+      "cluster_label": "whitespace_to_content_word_late"
+    },
+    {
+      "layer": 11,
+      "head": 10,
+      "sv_rank": 4,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 11,
+      "sv_rank": 0,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 11,
+      "sv_rank": 1,
+      "cluster": 2,
+      "cluster_label": "content_word_matcher"
+    },
+    {
+      "layer": 11,
+      "head": 11,
+      "sv_rank": 2,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 11,
+      "sv_rank": 3,
+      "cluster": 8,
+      "cluster_label": "punctuation_to_content_word"
+    },
+    {
+      "layer": 11,
+      "head": 11,
+      "sv_rank": 4,
+      "cluster": 9,
+      "cluster_label": "proper_noun_to_content_word"
+    }
+  ]
+}
